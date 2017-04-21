@@ -1,6 +1,8 @@
 
-CoreX : core pattern optimizer visual interface
+CoreX : core pattern optimizer visual interface 
+
 (c) 2014 DrSdl
+
 The program is provided as is, without any warranties
 This program is only for educational purposes.
 
