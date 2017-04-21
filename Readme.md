@@ -4,6 +4,7 @@ CoreX : core pattern optimizer visual interface
 The program is provided as is, without any warranties
 This program is only for educational purposes.
 
+
 Visual interface to demonstrate core loading and unloading activities
 This tool is mainly used to demonstrate core fuel pattern optimisation activities
 The core loading and the fuel pool configuration is described by an xml-file: core_default_map.xml
