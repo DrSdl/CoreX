@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{44544D68-87AD-4C8E-B5D1-DE15BE1B5D87}</ProjectGuid>
+    <ProjectTypeGuids>{A1591282-1198-4647-A2B1-27E5FF5F6F3B};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CoreX</RootNamespace>
+    <AssemblyName>CoreX</AssemblyName>
+    <TargetFrameworkIdentifier>Silverlight</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v5.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>CoreX.xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>CoreX.App</SilverlightAppEntry>
+    <TestPageFileName>CoreXTestPage.html</TestPageFileName>
+    <CreateTestPage>true</CreateTestPage>
+    <ValidateXaml>true</ValidateXaml>
+    <EnableOutOfBrowser>false</EnableOutOfBrowser>
+    <OutOfBrowserSettingsFile>Properties\OutOfBrowserSettings.xml</OutOfBrowserSettingsFile>
+    <UsePlatformExtensions>false</UsePlatformExtensions>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+    <LinkedServerProject>
+    </LinkedServerProject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+  </PropertyGroup>
+  <!-- This property group is only here to support building this project using the 
+       MSBuild 3.5 toolset. In order to work correctly with this older toolset, it needs 
+       to set the TargetFrameworkVersion to v3.5 -->
+  <PropertyGroup Condition="'$(MSBuildToolsVersion)' == '3.5'">
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C1.Silverlight">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.Chart">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.Chart.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.Chart.Editor">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.Chart.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.Chart.Extended">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.Chart.Extended.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.Data">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.DataGrid">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.DataGrid.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.DataGrid.Ria">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.DataGrid.Ria.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.DateTimeEditors">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.DateTimeEditors.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.Docking">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.Docking.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.Extended">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.Extended.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.Gauge">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.Gauge.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.Imaging">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.Imaging.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.Maps">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.Maps.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.MediaPlayer">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.MediaPlayer.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.Pdf">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.Pdf.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.RichTextBox">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.RichTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.RichTextBox.PdfFilter">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.RichTextBox.PdfFilter.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.RichTextBox.RtfFilter">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.RichTextBox.RtfFilter.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.RichTextBox.Toolbar">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.RichTextBox.Toolbar.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.Schedule">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.Schedule.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.SpellChecker">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.SpellChecker.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.Theming">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.Theming.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.Theming.BureauBlack">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.Theming.BureauBlack.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.Theming.ExpressionDark">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.Theming.ExpressionDark.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.Theming.ExpressionLight">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.Theming.ExpressionLight.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.Theming.RainierOrange">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.Theming.RainierOrange.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.Theming.ShinyBlue">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.Theming.ShinyBlue.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.Theming.WhistlerBlue">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.Theming.WhistlerBlue.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.Toolbar">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.Toolbar.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.Uploader">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.Uploader.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Silverlight.Zip">
+      <HintPath>..\..\..\..\..\..\..\Program Files\ComponentOne\Studio for Silverlight\Bin\C1.Silverlight.Zip.dll</HintPath>
+    </Reference>
+    <Reference Include="mscorlib" />
+    <Reference Include="System.ServiceModel.Web" />
+    <Reference Include="System.ServiceModel.Web.Extensions, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System.Windows" />
+    <Reference Include="system" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Windows.Browser" />
+    <Reference Include="System.Xml.Linq, Version=2.0.5.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\AppManifest.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\arrow_right_green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\arrow_right_green_shadow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\NS contact black02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\NS contact red02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\NS goButton 01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\NS goButton 02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\NS title 02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\NS title 03.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\mariussedl black02.jpg" />
+    <Resource Include="Resources\mariussedl black02.png" />
+    <Resource Include="Resources\mariussedl red02.jpg" />
+    <Resource Include="Resources\mariussedl red02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\NS title 04.jpg" />
+    <Resource Include="Resources\NS title 04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="core_default_map.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="core_default_results.xml" />
+    <Content Include="Resources\core.xml">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Silverlight\$(SilverlightVersion)\Microsoft.Silverlight.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{A1591282-1198-4647-A2B1-27E5FF5F6F3B}">
+        <SilverlightProjectProperties />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

@@ -1,0 +1,2412 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NuclearNews>
+
+  <FuelAssemblies>
+
+    <FuelAssembly BEname="0001" keff="0.891" burnup="24.1" HMmass="540.396" region="1" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0002" keff="0.891" burnup="24.1" HMmass="540.478" region="1" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0020" keff="0.891" burnup="24.1" HMmass="538.513" region="1" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0021" keff="0.871" burnup="25.1" HMmass="538.709" region="1" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0025" keff="0.871" burnup="25.1" HMmass="536.391" region="1" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0026" keff="0.891" burnup="24.1" HMmass="536.143" region="1" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0044" keff="0.891" burnup="24.1" HMmass="538.837" region="1" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0045" keff="0.871" burnup="25.1" HMmass="536.599" region="1" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0047" keff="0.877" burnup="26.8" HMmass="540.284" region="1" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0073" keff="0.858" burnup="36.4" HMmass="537.084" region="2B" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0075" keff="0.858" burnup="36.3" HMmass="537.12" region="2B" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0087" keff="0.858" burnup="36.3" HMmass="536.307" region="2B" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0092" keff="0.858" burnup="36.4" HMmass="536.431" region="2B" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0104" keff="0.915" burnup="29.1" HMmass="536.608" region="2B" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0111" keff="0.862" burnup="36.4" HMmass="535.556" region="2B" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0115" keff="0.858" burnup="36.4" HMmass="537.032" region="2B" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0120" keff="0.858" burnup="36.3" HMmass="536.36" region="2B" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0132" keff="0.858" burnup="36.3" HMmass="537.442" region="2B" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0134" keff="0.858" burnup="36.4" HMmass="535.992" region="2B" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0146" keff="0.894" burnup="38.7" HMmass="536.004" region="3" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0149" keff="0.894" burnup="38.8" HMmass="535.847" region="3" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0155" keff="0.894" burnup="38.8" HMmass="536.822" region="3" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0156" keff="0.894" burnup="38.7" HMmass="537.188" region="3" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0175" keff="0.894" burnup="38.7" HMmass="537.377" region="3" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0176" keff="0.894" burnup="38.8" HMmass="537.197" region="3" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0185" keff="0.894" burnup="38.7" HMmass="536.363" region="3" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0187" keff="0.914" burnup="36.9" HMmass="535.865" region="3" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0202" keff="0.924" burnup="37.6" HMmass="535.98" region="4" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+      zustand="defekt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0259" keff="0.912" burnup="40.3" HMmass="535.487" region="4" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+      zustand="defekt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0292" keff="0.912" burnup="41.4" HMmass="533.376" region="5GI" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0294" keff="0.912" burnup="41.4" HMmass="532.903" region="5GI" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0301" keff="0.912" burnup="41.4" HMmass="536.365" region="5GI" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0303" keff="0.912" burnup="41.4" HMmass="535.007" region="5GI" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0650" keff="0.928" burnup="44.2" HMmass="538.998" region="11GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0656" keff="0.943" burnup="42.7" HMmass="538.66" region="11GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+      zustand="defekt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0671" keff="0.927" burnup="44.7" HMmass="534.678" region="11GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0672" keff="0.921" burnup="44.3" HMmass="538.365" region="11GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0673" keff="0.921" burnup="44.3" HMmass="538.457" region="11GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0686" keff="0.924" burnup="44.2" HMmass="537.488" region="12GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0688" keff="0.923" burnup="44.3" HMmass="537.589" region="12GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0691" keff="0.887" burnup="45.7" HMmass="501.493" region="11GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+      zustand="defekt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0693" keff="0.924" burnup="38.5" HMmass="506.697" region="11GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0694" keff="0.923" burnup="44.3" HMmass="537.435" region="12GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0696" keff="0.923" burnup="44.3" HMmass="538.294" region="12GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0722" keff="0.88" burnup="49.5" HMmass="534.202" region="13GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0723" keff="0.88" burnup="48.5" HMmass="534.608" region="13GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0724" keff="0.88" burnup="49.5" HMmass="537.831" region="13GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0725" keff="0.88" burnup="48.5" HMmass="536.475" region="13GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0726" keff="0.88" burnup="49.5" HMmass="537.422" region="13GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0727" keff="0.88" burnup="48.5" HMmass="537.941" region="13GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0728" keff="0.88" burnup="49.5" HMmass="538.117" region="13GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0729" keff="0.879" burnup="48.5" HMmass="537.904" region="13GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0745" keff="0.888" burnup="49.1" HMmass="537.482" region="13GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0747" keff="0.888" burnup="49.1" HMmass="536.803" region="13GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0749" keff="0.888" burnup="49" HMmass="538.222" region="13GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0751" keff="0.888" burnup="49.1" HMmass="537.509" region="13GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0754" keff="0.921" burnup="46.1" HMmass="537.038" region="13GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0755" keff="0.921" burnup="46.2" HMmass="536.656" region="13GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0756" keff="0.921" burnup="46.2" HMmass="537.979" region="13GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0757" keff="0.921" burnup="46.2" HMmass="537.804" region="13GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0758" keff="0.921" burnup="46.1" HMmass="536.28" region="13GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0759" keff="0.871" burnup="50.2" HMmass="537.399" region="13GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0760" keff="0.921" burnup="46.1" HMmass="535.528" region="13GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0761" keff="0.921" burnup="46.1" HMmass="536.541" region="13GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0771" keff="0.889" burnup="46.1" HMmass="537.425" region="14" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0773" keff="0.928" burnup="44.5" HMmass="536.843" region="14" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+      zustand="defekt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0775" keff="0.889" burnup="46.1" HMmass="536.783" region="14" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0777" keff="0.889" burnup="46.1" HMmass="537.146" region="14" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0782" keff="0.909" burnup="44.9" HMmass="536.779" region="14GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0784" keff="0.909" burnup="44.9" HMmass="535.48" region="14GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0786" keff="0.909" burnup="45" HMmass="535.93" region="14GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0788" keff="0.909" burnup="44.9" HMmass="536.347" region="14GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0790" keff="0.867" burnup="47.4" HMmass="536.031" region="14GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0791" keff="0.925" burnup="45.8" HMmass="534.949" region="14GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0792" keff="0.867" burnup="47.4" HMmass="535.948" region="14GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0793" keff="0.925" burnup="45.8" HMmass="535.62" region="14GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0794" keff="0.868" burnup="47.4" HMmass="535.587" region="14GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0795" keff="0.882" burnup="46.3" HMmass="535.547" region="14GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="90 " zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0796" keff="0.867" burnup="47.4" HMmass="536.189" region="14GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0818" keff="0.92" burnup="46.5" HMmass="543.741" region="15" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0819" keff="0.921" burnup="46.5" HMmass="541.77" region="15" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0820" keff="0.921" burnup="46.5" HMmass="542.06" region="15" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0821" keff="0.921" burnup="46.4" HMmass="542.46" region="15" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0830" keff="0.908" burnup="46.3" HMmass="542.886" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0831" keff="0.902" burnup="46.9" HMmass="544.389" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0832" keff="0.908" burnup="46.3" HMmass="542.948" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0833" keff="0.902" burnup="46.9" HMmass="540.677" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0834" keff="0.907" burnup="46.4" HMmass="540.666" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0835" keff="0.903" burnup="46.8" HMmass="540.152" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0836" keff="0.909" burnup="46.1" HMmass="539.779" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0837" keff="0.903" burnup="46.9" HMmass="541.247" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0846" keff="0.912" burnup="47.1" HMmass="540.795" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0847" keff="0.912" burnup="47" HMmass="540.961" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0848" keff="0.912" burnup="47.1" HMmass="541.137" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0849" keff="0.912" burnup="47" HMmass="542.245" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0850" keff="0.912" burnup="47.1" HMmass="542.553" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0851" keff="0.913" burnup="47" HMmass="542.68" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0852" keff="0.912" burnup="47" HMmass="542.616" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0853" keff="0.913" burnup="47" HMmass="542.827" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0854" keff="0.92" burnup="45.7" HMmass="540.45" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0855" keff="0.921" burnup="45.7" HMmass="540.755" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0856" keff="0.92" burnup="45.7" HMmass="540.865" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0857" keff="0.921" burnup="45.7" HMmass="541.52" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0858" keff="0.92" burnup="45.7" HMmass="541.281" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0859" keff="0.921" burnup="45.7" HMmass="542.623" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0860" keff="0.921" burnup="45.7" HMmass="540.78" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0861" keff="0.921" burnup="45.7" HMmass="540.787" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0862" keff="0.923" burnup="45.3" HMmass="541.438" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0863" keff="0.923" burnup="45.3" HMmass="540.235" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0864" keff="0.926" burnup="45.6" HMmass="542.705" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0865" keff="0.923" burnup="45.3" HMmass="542.833" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0866" keff="0.869" burnup="51.4" HMmass="541.278" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0867" keff="0.869" burnup="51.3" HMmass="542.07" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0868" keff="0.869" burnup="51.4" HMmass="542.1" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0869" keff="0.928" burnup="45.1" HMmass="542.181" region="15GZ" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0870" keff="0.917" burnup="46.7" HMmass="544.431" region="16GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0871" keff="0.91" burnup="48" HMmass="543.962" region="16GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0872" keff="0.917" burnup="46.4" HMmass="543.616" region="16GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0873" keff="0.914" burnup="46.7" HMmass="543.609" region="16GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0874" keff="0.917" burnup="46.3" HMmass="544.433" region="16GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0875" keff="0.918" burnup="46.2" HMmass="544.738" region="16GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0876" keff="0.917" burnup="46.3" HMmass="544.751" region="16GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0877" keff="0.918" burnup="46.2" HMmass="543.429" region="16GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0882" keff="0.874" burnup="49.2" HMmass="543.613" region="16GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0883" keff="0.874" burnup="49.2" HMmass="543.576" region="16GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0884" keff="0.874" burnup="49.2" HMmass="543.798" region="16GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0885" keff="0.874" burnup="49.2" HMmass="544.211" region="16GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0886" keff="0.873" burnup="47.3" HMmass="544.084" region="16GA" location="Kern" xcoordinates="1 " ycoordinates="L" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0887" keff="0.873" burnup="47.4" HMmass="544.259" region="16GA" location="Kern" xcoordinates="11" ycoordinates="P" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0888" keff="0.873" burnup="47.4" HMmass="543.989" region="16GA" location="Kern" xcoordinates="15" ycoordinates="E" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0889" keff="0.873" burnup="47.4" HMmass="543.641" region="16GA" location="Kern" xcoordinates="5 " ycoordinates="A" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0890" keff="0.873" burnup="47.3" HMmass="543.931" region="16GA" location="Kern" xcoordinates="5 " ycoordinates="P" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0891" keff="0.873" burnup="47.3" HMmass="544.213" region="16GA" location="Kern" xcoordinates="15" ycoordinates="L" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0892" keff="0.873" burnup="47.3" HMmass="544.227" region="16GA" location="Kern" xcoordinates="11" ycoordinates="A" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0893" keff="0.873" burnup="47.3" HMmass="544.273" region="16GA" location="Kern" xcoordinates="1 " ycoordinates="E" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0894" keff="0.88" burnup="48.9" HMmass="543.928" region="16GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0895" keff="0.88" burnup="48.9" HMmass="543.958" region="16GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0896" keff="0.88" burnup="48.9" HMmass="543.73" region="16GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0897" keff="0.881" burnup="48.8" HMmass="543.581" region="16GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0898" keff="0.881" burnup="48.8" HMmass="543.865" region="16GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0899" keff="0.881" burnup="48.8" HMmass="543.583" region="16GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0900" keff="0.881" burnup="48.8" HMmass="543.701" region="16GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0901" keff="0.881" burnup="48.8" HMmass="543.683" region="16GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0910" keff="0.921" burnup="45.6" HMmass="544.107" region="16GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0911" keff="0.92" burnup="45.6" HMmass="544.383" region="16GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0912" keff="0.921" burnup="45.6" HMmass="544.008" region="16GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0913" keff="0.921" burnup="45.6" HMmass="543.795" region="16GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0914" keff="0.922" burnup="46" HMmass="544.717" region="16A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0915" keff="0.922" burnup="46" HMmass="544.873" region="16A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0916" keff="0.888" burnup="46" HMmass="546.181" region="16A" location="Kern" xcoordinates="4 " ycoordinates="O" rotation="180" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0917" keff="0.922" burnup="46" HMmass="545.829" region="16A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0918" keff="0.922" burnup="46" HMmass="544.868" region="16A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0919" keff="0.922" burnup="46" HMmass="545.245" region="16A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0920" keff="0.922" burnup="46" HMmass="544.721" region="16A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0921" keff="0.922" burnup="46" HMmass="545.016" region="16A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0922" keff="0.91" burnup="49.8" HMmass="532.352" region="17M1" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0923" keff="0.91" burnup="49.8" HMmass="532.125" region="17M1" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0924" keff="0.91" burnup="49.8" HMmass="532.186" region="17M1" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0925" keff="0.91" burnup="49.8" HMmass="532.143" region="17M1" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0928" keff="0.904" burnup="49.6" HMmass="532.743" region="17M1" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0929" keff="0.904" burnup="49.6" HMmass="531.876" region="17M1" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0930" keff="0.908" burnup="50.1" HMmass="532.02" region="17M1" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0931" keff="0.908" burnup="50.1" HMmass="531.103" region="17M1" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0932" keff="0.908" burnup="50.1" HMmass="531.081" region="17M1" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0934" keff="0.908" burnup="50" HMmass="530.704" region="17M1" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0936" keff="0.908" burnup="50" HMmass="531.829" region="17M1" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0937" keff="0.908" burnup="50" HMmass="531.806" region="17M1" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0938" keff="0.901" burnup="52.7" HMmass="532.322" region="17M1" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0939" keff="0.901" burnup="52.7" HMmass="531.478" region="17M1" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0940" keff="0.901" burnup="52.7" HMmass="531.715" region="17M1" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0941" keff="0.901" burnup="52.7" HMmass="532.367" region="17M1" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0942" keff="0.909" burnup="47.1" HMmass="545.878" region="17GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0943" keff="0.909" burnup="47.2" HMmass="546.417" region="17GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0944" keff="0.909" burnup="47.1" HMmass="545.14" region="17GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0945" keff="0.909" burnup="47.1" HMmass="545.438" region="17GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0946" keff="0.875" burnup="49.6" HMmass="543.582" region="17GA" location="Kern" xcoordinates="6 " ycoordinates="P" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0947" keff="0.876" burnup="49.6" HMmass="544.263" region="17GA" location="Kern" xcoordinates="15" ycoordinates="K" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0948" keff="0.875" burnup="49.6" HMmass="544.864" region="17GA" location="Kern" xcoordinates="10" ycoordinates="A" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0949" keff="0.876" burnup="49.6" HMmass="546.159" region="17GA" location="Kern" xcoordinates="1 " ycoordinates="F" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0954" keff="0.923" burnup="48.1" HMmass="545.928" region="17GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0955" keff="0.923" burnup="48.1" HMmass="545.212" region="17GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0956" keff="0.923" burnup="48.1" HMmass="544.065" region="17GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0957" keff="0.923" burnup="48.1" HMmass="544.002" region="17GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0958" keff="0.91" burnup="48.8" HMmass="545.115" region="17GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0959" keff="0.91" burnup="48.9" HMmass="544.904" region="17GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0960" keff="0.91" burnup="48.8" HMmass="543.841" region="17GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0961" keff="0.91" burnup="48.9" HMmass="544.646" region="17GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0962" keff="0.91" burnup="48.8" HMmass="544.219" region="17GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0963" keff="0.91" burnup="48.8" HMmass="544.62" region="17GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0964" keff="0.91" burnup="48.9" HMmass="544.284" region="17GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0965" keff="0.91" burnup="48.8" HMmass="543.911" region="17GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0966" keff="0.921" burnup="45.7" HMmass="544.689" region="17GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0967" keff="0.921" burnup="45.7" HMmass="544.954" region="17GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0968" keff="0.921" burnup="45.7" HMmass="545.446" region="17GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0969" keff="0.921" burnup="45.7" HMmass="545.094" region="17GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0970" keff="0.92" burnup="46.3" HMmass="546.583" region="17A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0971" keff="0.92" burnup="46.2" HMmass="545.805" region="17A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0972" keff="0.92" burnup="46.3" HMmass="545.76" region="17A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0973" keff="0.92" burnup="46.3" HMmass="547.182" region="17A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0986" keff="0.902" burnup="52.7" HMmass="532.247" region="17M2" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0987" keff="0.908" burnup="50.8" HMmass="531.447" region="17M2" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0988" keff="0.908" burnup="50.8" HMmass="531.512" region="17M2" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0989" keff="0.908" burnup="50.8" HMmass="529.952" region="17M2" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0990" keff="0.895" burnup="52.3" HMmass="529.488" region="17M2" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0991" keff="0.902" burnup="52.8" HMmass="529.849" region="17M2" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0992" keff="0.902" burnup="52.8" HMmass="530.572" region="17M2" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0993" keff="0.902" burnup="52.8" HMmass="529.817" region="17M2" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0994" keff="0.906" burnup="52.6" HMmass="530.751" region="18M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0995" keff="0.906" burnup="52.6" HMmass="530.554" region="18M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0996" keff="0.906" burnup="52.6" HMmass="530.288" region="18M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0997" keff="0.906" burnup="52.6" HMmass="530.852" region="18M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0998" keff="0.906" burnup="52.6" HMmass="530.46" region="18M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="0999" keff="0.906" burnup="52.6" HMmass="530.573" region="18M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1000" keff="0.906" burnup="52.6" HMmass="530.957" region="18M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1001" keff="0.906" burnup="52.6" HMmass="530.678" region="18M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1002" keff="0.921" burnup="45.8" HMmass="528.585" region="18M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1003" keff="0.921" burnup="45.8" HMmass="528.742" region="18M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1004" keff="0.921" burnup="45.8" HMmass="528.762" region="18M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1005" keff="0.923" burnup="46.4" HMmass="528.425" region="18M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1006" keff="0.914" burnup="47.6" HMmass="530.127" region="18M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1007" keff="0.914" burnup="47.6" HMmass="529.969" region="18M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1008" keff="0.914" burnup="47.6" HMmass="529.943" region="18M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1009" keff="0.911" burnup="47" HMmass="527.503" region="18M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1010" keff="0.92" burnup="46.3" HMmass="545.282" region="18GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1011" keff="0.92" burnup="46.3" HMmass="544.36" region="18GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1012" keff="0.92" burnup="46.3" HMmass="545.474" region="18GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1013" keff="0.92" burnup="46.4" HMmass="545.882" region="18GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1014" keff="0.92" burnup="48.1" HMmass="544.534" region="18GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1015" keff="0.92" burnup="48.1" HMmass="545.929" region="18GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1016" keff="0.92" burnup="48.1" HMmass="543.99" region="18GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1017" keff="0.92" burnup="48.1" HMmass="545.01" region="18GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1018" keff="0.92" burnup="48" HMmass="545.595" region="18GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1019" keff="0.92" burnup="48" HMmass="544.886" region="18GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1020" keff="0.92" burnup="48" HMmass="544.829" region="18GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1021" keff="0.92" burnup="48" HMmass="545.833" region="18GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1022" keff="0.881" burnup="49.5" HMmass="547.62" region="18A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1023" keff="0.881" burnup="49.5" HMmass="547.502" region="18A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1024" keff="0.881" burnup="49.5" HMmass="547.383" region="18A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1025" keff="0.881" burnup="49.5" HMmass="547.546" region="18A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="90 " zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1026" keff="0.896" burnup="51" HMmass="545.729" region="18A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1027" keff="0.895" burnup="51" HMmass="547.701" region="18A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1028" keff="0.895" burnup="51.1" HMmass="547.928" region="18A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1029" keff="0.895" burnup="51" HMmass="547.518" region="18A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1030" keff="0.884" burnup="47.4" HMmass="545.459" region="18A" location="Kern" xcoordinates="10" ycoordinates="P" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1031" keff="0.884" burnup="47.4" HMmass="546.762" region="18A" location="Kern" xcoordinates="15" ycoordinates="F" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1032" keff="0.884" burnup="47.4" HMmass="545.77" region="18A" location="Kern" xcoordinates="6 " ycoordinates="A" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1033" keff="0.884" burnup="47.4" HMmass="546.549" region="18A" location="Kern" xcoordinates="1 " ycoordinates="K" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1042" keff="0.882" burnup="49.9" HMmass="547" region="18A" location="Kern" xcoordinates="2 " ycoordinates="D" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1043" keff="0.898" burnup="51.4" HMmass="546.406" region="18A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1044" keff="0.898" burnup="51.3" HMmass="546.546" region="18A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1045" keff="0.898" burnup="51.3" HMmass="545.817" region="18A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1050" keff="0.912" burnup="50.7" HMmass="532.722" region="20M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1051" keff="0.912" burnup="50.7" HMmass="533.38" region="20M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1052" keff="0.912" burnup="50.6" HMmass="533.354" region="20M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1053" keff="0.912" burnup="50.7" HMmass="533.483" region="20M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1054" keff="0.914" burnup="47" HMmass="538.853" region="18GF" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1055" keff="0.914" burnup="47" HMmass="539.838" region="18GF" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1058" keff="0.914" burnup="48.4" HMmass="543.635" region="19GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1059" keff="0.914" burnup="48.4" HMmass="543.624" region="19GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1060" keff="0.914" burnup="48.4" HMmass="543.682" region="19GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1061" keff="0.914" burnup="48.4" HMmass="543.784" region="19GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1062" keff="0.892" burnup="48.9" HMmass="543.692" region="19GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1063" keff="0.892" burnup="48.9" HMmass="543.805" region="19GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1064" keff="0.892" burnup="48.9" HMmass="544.202" region="19GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1065" keff="0.892" burnup="48.9" HMmass="543.667" region="19GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="180" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1066" keff="0.92" burnup="47.2" HMmass="545.065" region="19A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1067" keff="0.919" burnup="47.3" HMmass="544.788" region="19A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1068" keff="0.92" burnup="47.2" HMmass="544.747" region="19A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1069" keff="0.919" burnup="47.3" HMmass="544.675" region="19A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1070" keff="0.923" burnup="46.2" HMmass="545.214" region="19A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1071" keff="0.923" burnup="46.2" HMmass="544.761" region="19A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1072" keff="0.923" burnup="46.2" HMmass="544.507" region="19A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1073" keff="0.924" burnup="46.1" HMmass="544.854" region="19A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1074" keff="0.924" burnup="46.1" HMmass="544.501" region="19A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1075" keff="0.923" burnup="46.1" HMmass="544.716" region="19A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1076" keff="0.924" burnup="46.1" HMmass="544.127" region="19A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1077" keff="0.924" burnup="46.1" HMmass="544.156" region="19A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1078" keff="0.888" burnup="49.4" HMmass="544.192" region="19A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1079" keff="0.887" burnup="49.5" HMmass="544.836" region="19A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1080" keff="0.888" burnup="49.5" HMmass="545.247" region="19A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1081" keff="0.888" burnup="49.4" HMmass="545.351" region="19A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1082" keff="0.917" burnup="48.2" HMmass="545.313" region="19A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1083" keff="0.917" burnup="48.2" HMmass="545.722" region="19A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1084" keff="0.917" burnup="48.2" HMmass="545.531" region="19A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1085" keff="0.917" burnup="48.2" HMmass="545.023" region="19A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1086" keff="0.912" burnup="50.7" HMmass="532.149" region="20M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1087" keff="0.912" burnup="50.7" HMmass="532.386" region="20M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1088" keff="0.912" burnup="50.6" HMmass="531.684" region="20M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1089" keff="0.912" burnup="50.6" HMmass="531.716" region="20M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1090" keff="0.905" burnup="53.2" HMmass="532.357" region="20M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1091" keff="0.905" burnup="53.2" HMmass="532.391" region="20M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1092" keff="0.905" burnup="53.2" HMmass="532.492" region="20M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1093" keff="0.905" burnup="53.2" HMmass="532.389" region="20M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1094" keff="0.906" burnup="53.2" HMmass="532.728" region="20M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1095" keff="0.907" burnup="53.2" HMmass="532.023" region="20M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1096" keff="0.906" burnup="53.2" HMmass="532.827" region="20M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1097" keff="0.906" burnup="53.2" HMmass="532.159" region="20M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1098" keff="0.911" burnup="48.8" HMmass="545.35" region="20A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1099" keff="0.911" burnup="48.8" HMmass="545.548" region="20A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1100" keff="0.911" burnup="48.8" HMmass="545.897" region="20A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1101" keff="0.911" burnup="48.8" HMmass="544.758" region="20A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1102" keff="0.886" burnup="50.9" HMmass="544.006" region="20A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1103" keff="0.886" burnup="50.9" HMmass="543.825" region="20A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1104" keff="0.886" burnup="50.9" HMmass="542.964" region="20A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1105" keff="0.886" burnup="50.9" HMmass="543.748" region="20A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1106" keff="0.886" burnup="50.8" HMmass="545.06" region="20A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1107" keff="0.886" burnup="50.8" HMmass="546.027" region="20A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1108" keff="0.886" burnup="50.8" HMmass="545.932" region="20A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1109" keff="0.886" burnup="50.8" HMmass="545.026" region="20A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1110" keff="0.904" burnup="49.7" HMmass="545.642" region="20A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1111" keff="0.904" burnup="49.7" HMmass="544.748" region="20A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1112" keff="0.904" burnup="49.7" HMmass="545.131" region="20A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1113" keff="0.904" burnup="49.7" HMmass="542.577" region="20A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1114" keff="0.906" burnup="49.8" HMmass="546.364" region="20A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1115" keff="0.906" burnup="49.8" HMmass="545.908" region="20A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1116" keff="0.906" burnup="49.8" HMmass="544.043" region="20A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1117" keff="0.906" burnup="49.8" HMmass="545.511" region="20A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1118" keff="0.899" burnup="48.5" HMmass="544.25" region="20GA" location="Kern" xcoordinates="2 " ycoordinates="M" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1119" keff="0.899" burnup="48.5" HMmass="544.631" region="20GA" location="Kern" xcoordinates="12" ycoordinates="O" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1120" keff="0.899" burnup="48.5" HMmass="544.655" region="20GA" location="Kern" xcoordinates="14" ycoordinates="D" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1121" keff="0.899" burnup="48.5" HMmass="543.882" region="20GA" location="Kern" xcoordinates="4 " ycoordinates="B" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1122" keff="0.903" burnup="48.7" HMmass="543.987" region="20GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1123" keff="0.903" burnup="48.7" HMmass="543.759" region="20GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1124" keff="0.903" burnup="48.7" HMmass="543.971" region="20GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1125" keff="0.903" burnup="48.7" HMmass="544.182" region="20GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1126" keff="0.912" burnup="49.9" HMmass="529.259" region="21M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1127" keff="0.912" burnup="49.9" HMmass="529.11" region="21M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1128" keff="0.912" burnup="49.9" HMmass="529.45" region="21M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1129" keff="0.912" burnup="49.9" HMmass="530.086" region="21M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1130" keff="0.912" burnup="49.9" HMmass="528.883" region="21M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1131" keff="0.912" burnup="49.9" HMmass="529.534" region="21M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1132" keff="0.912" burnup="49.9" HMmass="529.916" region="21M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1133" keff="0.912" burnup="49.9" HMmass="530.233" region="21M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1134" keff="0.916" burnup="49.2" HMmass="529.965" region="21M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1135" keff="0.916" burnup="49.2" HMmass="529.604" region="21M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1136" keff="0.916" burnup="49.2" HMmass="529.587" region="21M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1137" keff="0.916" burnup="49.2" HMmass="528.43" region="21M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1138" keff="0.916" burnup="49.1" HMmass="529.443" region="21M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1139" keff="0.916" burnup="49.1" HMmass="529.637" region="21M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1140" keff="0.916" burnup="49.1" HMmass="529.517" region="21M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1141" keff="0.916" burnup="49.1" HMmass="529.52" region="21M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1142" keff="0.971" burnup="39.1" HMmass="542.521" region="21GA" location="Kern" xcoordinates="12" ycoordinates="D" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1143" keff="1.024" burnup="32.2" HMmass="544.938" region="21GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1144" keff="0.972" burnup="38.9" HMmass="544.884" region="21GA" location="Kern" xcoordinates="4 " ycoordinates="D" rotation="90 " zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1145" keff="0.972" burnup="39" HMmass="545.257" region="21GA" location="Kern" xcoordinates="12" ycoordinates="M" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1146" keff="0.895" burnup="48.4" HMmass="543.976" region="21GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="   " zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1147" keff="0.892" burnup="48.7" HMmass="545.225" region="21GA" location="Kern" xcoordinates="14" ycoordinates="M" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1148" keff="0.93" burnup="46.2" HMmass="545.065" region="21GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1149" keff="0.892" burnup="48.7" HMmass="544.997" region="21GA" location="Kern" xcoordinates="12" ycoordinates="B" rotation="180" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1150" keff="0.898" burnup="49.8" HMmass="545.065" region="21GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1151" keff="0.898" burnup="49.8" HMmass="545.081" region="21GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1152" keff="0.898" burnup="49.8" HMmass="545.388" region="21GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1153" keff="0.898" burnup="49.7" HMmass="545.268" region="21GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1154" keff="0.903" burnup="48.9" HMmass="544.963" region="21GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1155" keff="0.903" burnup="48.9" HMmass="544.309" region="21GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1156" keff="0.903" burnup="49" HMmass="544.483" region="21GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1157" keff="0.903" burnup="48.9" HMmass="544.297" region="21GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1158" keff="0.901" burnup="49.9" HMmass="545.014" region="21GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1159" keff="0.894" burnup="49.4" HMmass="545.578" region="21A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="180" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1160" keff="0.899" burnup="47.9" HMmass="545.402" region="21A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="90 " zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1161" keff="0.933" burnup="45.8" HMmass="545.473" region="21A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1162" keff="0.933" burnup="45.8" HMmass="545.604" region="21A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1163" keff="0.905" burnup="49.8" HMmass="545.347" region="21A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1164" keff="0.905" burnup="49.8" HMmass="545.775" region="21A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1165" keff="0.904" burnup="49.9" HMmass="544.511" region="21A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1166" keff="0.905" burnup="49.8" HMmass="546.416" region="21A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1167" keff="0.905" burnup="49.9" HMmass="546.169" region="21A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1168" keff="0.905" burnup="49.9" HMmass="545.433" region="21A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1169" keff="0.905" burnup="50" HMmass="545.34" region="21A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1170" keff="0.905" burnup="49.9" HMmass="544.859" region="21A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1171" keff="0.907" burnup="49.5" HMmass="545.187" region="21A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1172" keff="0.907" burnup="49.4" HMmass="545.31" region="21A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1173" keff="0.906" burnup="49.5" HMmass="545.232" region="21A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1174" keff="0.907" burnup="49.5" HMmass="545.371" region="21A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1175" keff="0.901" burnup="49.9" HMmass="544.349" region="21GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1176" keff="0.901" burnup="49.9" HMmass="544.624" region="21GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1177" keff="0.901" burnup="49.9" HMmass="545.205" region="21GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1178" keff="0.913" burnup="47.5" HMmass="544.793" region="21GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1179" keff="0.913" burnup="47.4" HMmass="545.105" region="21GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1180" keff="0.913" burnup="47.5" HMmass="545.742" region="21GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1181" keff="0.913" burnup="47.4" HMmass="545.238" region="21GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1182" keff="0.94" burnup="44.6" HMmass="544.536" region="21GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1183" keff="0.901" burnup="50.1" HMmass="544.018" region="21GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1184" keff="0.901" burnup="50.1" HMmass="544.574" region="21GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1185" keff="0.901" burnup="50.1" HMmass="545.086" region="21GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1186" keff="0.909" burnup="50.5" HMmass="531.696" region="22M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1187" keff="0.909" burnup="50.6" HMmass="530.855" region="22M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1188" keff="0.909" burnup="50.5" HMmass="528.244" region="22M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1189" keff="0.909" burnup="50.6" HMmass="530.166" region="22M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1190" keff="0.908" burnup="50.4" HMmass="530.245" region="22M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1191" keff="0.908" burnup="50.4" HMmass="527.798" region="22M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1192" keff="0.908" burnup="50.4" HMmass="529.279" region="22M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1193" keff="0.908" burnup="50.4" HMmass="530.456" region="22M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1194" keff="0.911" burnup="49.9" HMmass="531.137" region="22M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1195" keff="0.911" burnup="49.9" HMmass="530.132" region="22M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1196" keff="0.911" burnup="49.9" HMmass="530.644" region="22M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1197" keff="0.911" burnup="49.9" HMmass="529.517" region="22M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1198" keff="0.907" burnup="51.4" HMmass="529.61" region="22M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1199" keff="0.907" burnup="51.5" HMmass="530.087" region="22M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1200" keff="0.907" burnup="51.4" HMmass="529.216" region="22M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1201" keff="0.907" burnup="51.4" HMmass="529.455" region="22M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1218" keff="0.908" burnup="48.7" HMmass="544.182" region="22A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1219" keff="0.904" burnup="49.5" HMmass="543.628" region="22A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1220" keff="0.908" burnup="48.7" HMmass="544.042" region="22A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1221" keff="0.908" burnup="48.6" HMmass="543.82" region="22A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1222" keff="0.924" burnup="46.5" HMmass="544.876" region="22A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="90 " zustand="abgebrannt" notes=" " >
+      zustand="defekt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1223" keff="0.906" burnup="49.3" HMmass="543.919" region="22A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1224" keff="0.902" burnup="50.8" HMmass="542.218" region="22A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="180" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1225" keff="0.906" burnup="49.2" HMmass="544.588" region="22A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1226" keff="0.913" burnup="48.6" HMmass="544.284" region="22A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1227" keff="0.914" burnup="48.4" HMmass="543.986" region="22A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1228" keff="0.913" burnup="48.5" HMmass="543.922" region="22A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1229" keff="0.913" burnup="48.4" HMmass="544.178" region="22A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1230" keff="0.913" burnup="48.5" HMmass="543.888" region="22A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1231" keff="0.913" burnup="48.6" HMmass="543.529" region="22A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1232" keff="0.913" burnup="48.5" HMmass="545.317" region="22A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1233" keff="0.912" burnup="48.7" HMmass="543.722" region="22A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1234" keff="0.903" burnup="48.9" HMmass="543.58" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1235" keff="0.903" burnup="49" HMmass="543.277" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1236" keff="0.903" burnup="49" HMmass="543.712" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1237" keff="0.903" burnup="49" HMmass="543.307" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1238" keff="0.904" burnup="48.5" HMmass="543.186" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1239" keff="0.904" burnup="48.6" HMmass="543.387" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1240" keff="0.904" burnup="48.5" HMmass="543.681" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1241" keff="0.904" burnup="48.6" HMmass="542.717" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1242" keff="0.904" burnup="48.6" HMmass="542.9" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1243" keff="0.904" burnup="48.5" HMmass="542.999" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1244" keff="0.904" burnup="48.5" HMmass="543.028" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1245" keff="0.904" burnup="48.5" HMmass="543.406" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1246" keff="0.907" burnup="48.5" HMmass="542.764" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1247" keff="0.906" burnup="48.6" HMmass="543.079" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1248" keff="0.907" burnup="48.5" HMmass="543.165" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1249" keff="0.907" burnup="48.5" HMmass="542.523" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1250" keff="0.907" burnup="48.5" HMmass="542.329" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1251" keff="0.907" burnup="48.5" HMmass="542.882" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1252" keff="0.907" burnup="48.5" HMmass="543.027" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1253" keff="0.9" burnup="48.7" HMmass="542.843" region="22GA" location="Kern" xcoordinates="10" ycoordinates="G" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1254" keff="0.899" burnup="48" HMmass="542.277" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1255" keff="0.899" burnup="48" HMmass="543.813" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1256" keff="0.898" burnup="48.1" HMmass="543.602" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1257" keff="0.899" burnup="48" HMmass="543.312" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1258" keff="0.896" burnup="49.7" HMmass="543.848" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1259" keff="0.895" burnup="49.9" HMmass="543.066" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1260" keff="0.896" burnup="49.7" HMmass="543.641" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="1261" keff="0.896" burnup="49.7" HMmass="543.331" region="22GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3069" keff="0.902" burnup="50.1" HMmass="542.746" region="23" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3070" keff="0.906" burnup="49.4" HMmass="542.619" region="23" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3071" keff="0.903" burnup="50.1" HMmass="542.932" region="23" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3072" keff="1.033" burnup="31.8" HMmass="540.605" region="23" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3073" keff="0.903" burnup="48.9" HMmass="542.131" region="23G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3074" keff="0.903" burnup="48.9" HMmass="541.479" region="23G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3075" keff="0.902" burnup="48.9" HMmass="542.193" region="23G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3076" keff="0.902" burnup="49" HMmass="542.019" region="23G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3077" keff="0.902" burnup="49.2" HMmass="542.669" region="23G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3078" keff="0.902" burnup="49.2" HMmass="542.725" region="23G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3079" keff="0.902" burnup="49.2" HMmass="542.701" region="23G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3080" keff="0.902" burnup="49.2" HMmass="542.673" region="23G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3081" keff="0.918" burnup="47.3" HMmass="540.084" region="23G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="180" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3082" keff="0.983" burnup="36.6" HMmass="542.331" region="23G" location="Kern" xcoordinates="11" ycoordinates="B" rotation="90 " zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3083" keff="0.983" burnup="36.7" HMmass="542.512" region="23G" location="Kern" xcoordinates="14" ycoordinates="L" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3084" keff="0.983" burnup="36.6" HMmass="542.327" region="23G" location="Kern" xcoordinates="2 " ycoordinates="E" rotation="   " zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3085" keff="0.899" burnup="49.7" HMmass="539.961" region="23G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3086" keff="0.899" burnup="49.8" HMmass="542.381" region="23G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3087" keff="0.899" burnup="49.8" HMmass="541.988" region="23G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3088" keff="0.899" burnup="49.8" HMmass="542.34" region="23G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3089" keff="0.899" burnup="50.3" HMmass="542.489" region="23G" location="Kern" xcoordinates="11" ycoordinates="F" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3090" keff="0.899" burnup="50.5" HMmass="542.247" region="23G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3091" keff="0.899" burnup="50.4" HMmass="541.925" region="23G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3092" keff="0.9" burnup="50.4" HMmass="542.11" region="23G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3093" keff="0.899" burnup="50.4" HMmass="542.345" region="23G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3094" keff="0.899" burnup="50.5" HMmass="541.752" region="23G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3095" keff="0.899" burnup="50.5" HMmass="542.265" region="23G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3096" keff="0.899" burnup="50.5" HMmass="542.053" region="23G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3121" keff="0.9" burnup="49.8" HMmass="545.123" region="23A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3122" keff="0.9" burnup="49.8" HMmass="543.613" region="23A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3123" keff="0.9" burnup="49.8" HMmass="545.939" region="23A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3124" keff="0.942" burnup="44.7" HMmass="543.289" region="23A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3125" keff="0.887" burnup="53.7" HMmass="545.325" region="23A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+      zustand="defekt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3126" keff="0.887" burnup="53.7" HMmass="544.554" region="23A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3127" keff="0.887" burnup="53.7" HMmass="543.71" region="23A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3128" keff="0.887" burnup="53.7" HMmass="545.619" region="23A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3129" keff="0.941" burnup="45.1" HMmass="545.545" region="23A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3130" keff="0.904" burnup="49.9" HMmass="545.563" region="23A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3131" keff="0.897" burnup="50.1" HMmass="543.695" region="23A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="90 " zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3132" keff="0.899" burnup="50.5" HMmass="545.209" region="23A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="   " zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3133" keff="0.902" burnup="49.8" HMmass="544.325" region="23A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3134" keff="1.088" burnup="24" HMmass="543.201" region="23A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="   " zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3135" keff="0.902" burnup="49.8" HMmass="545.844" region="23A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3136" keff="0.902" burnup="49.9" HMmass="545.388" region="23A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3297" keff="0.917" burnup="46.8" HMmass="544.08" region="24" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3298" keff="0.9" burnup="50.2" HMmass="544.328" region="24" location="Kern" xcoordinates="9 " ycoordinates="K" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3299" keff="0.917" burnup="46.9" HMmass="543.465" region="24" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3300" keff="0.9" burnup="50.4" HMmass="543.991" region="24" location="Becken" xcoordinates="-" ycoordinates="-" rotation="180" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3301" keff="0.908" burnup="49.1" HMmass="543.874" region="24" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3302" keff="0.891" burnup="52.1" HMmass="541.572" region="24" location="Kern" xcoordinates="6 " ycoordinates="E" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3303" keff="0.911" burnup="48.5" HMmass="543.131" region="24" location="Becken" xcoordinates="-" ycoordinates="-" rotation="90 " zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3304" keff="0.911" burnup="48.5" HMmass="543.721" region="24" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3305" keff="0.903" burnup="49.7" HMmass="543.745" region="24" location="Kern" xcoordinates="9 " ycoordinates="P" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3306" keff="0.903" burnup="49.6" HMmass="543.654" region="24" location="Kern" xcoordinates="15" ycoordinates="G" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3307" keff="0.903" burnup="49.6" HMmass="544.079" region="24" location="Kern" xcoordinates="7 " ycoordinates="A" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3308" keff="0.903" burnup="49.6" HMmass="544.051" region="24" location="Kern" xcoordinates="1 " ycoordinates="J" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3309" keff="0.903" burnup="49.3" HMmass="539.765" region="24G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3310" keff="0.904" burnup="49.3" HMmass="542.179" region="24G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3311" keff="0.904" burnup="49.2" HMmass="539.799" region="24G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3312" keff="0.904" burnup="49.3" HMmass="542.101" region="24G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3313" keff="0.961" burnup="40.5" HMmass="542.18" region="24G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3314" keff="0.962" burnup="40.5" HMmass="542.269" region="24G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3315" keff="0.962" burnup="40.5" HMmass="541.599" region="24G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3316" keff="0.962" burnup="40.4" HMmass="541.879" region="24G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3317" keff="0.902" burnup="48.1" HMmass="542.15" region="24G" location="Kern" xcoordinates="2 " ycoordinates="N" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3318" keff="0.902" burnup="48.1" HMmass="542.055" region="24G" location="Kern" xcoordinates="13" ycoordinates="O" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3319" keff="0.903" burnup="48.1" HMmass="542.631" region="24G" location="Kern" xcoordinates="14" ycoordinates="C" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3320" keff="0.902" burnup="48.2" HMmass="542.421" region="24G" location="Kern" xcoordinates="3 " ycoordinates="B" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3321" keff="0.915" burnup="46.9" HMmass="542.237" region="24G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3322" keff="0.915" burnup="47" HMmass="542.535" region="24G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3323" keff="0.896" burnup="50.4" HMmass="541.848" region="24G" location="Kern" xcoordinates="7 " ycoordinates="K" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3324" keff="0.915" burnup="47" HMmass="542.515" region="24G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3325" keff="0.92" burnup="47.1" HMmass="539.696" region="24G" location="Kern" xcoordinates="12" ycoordinates="G" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3326" keff="0.92" burnup="47.1" HMmass="541.759" region="24G" location="Kern" xcoordinates="7 " ycoordinates="D" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3327" keff="0.92" burnup="47" HMmass="541.69" region="24G" location="Kern" xcoordinates="4 " ycoordinates="J" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3328" keff="0.92" burnup="47.1" HMmass="541.735" region="24G" location="Kern" xcoordinates="9 " ycoordinates="M" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3329" keff="0.891" burnup="51.3" HMmass="541.626" region="24G" location="Kern" xcoordinates="5 " ycoordinates="K" rotation="   " zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3330" keff="0.903" burnup="49.4" HMmass="541.828" region="24G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3331" keff="0.903" burnup="49.4" HMmass="542.257" region="24G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+      zustand="defekt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3332" keff="0.903" burnup="49.4" HMmass="542.434" region="24G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3333" keff="0.903" burnup="49.5" HMmass="542.195" region="24G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3334" keff="0.903" burnup="49.5" HMmass="542.464" region="24G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3335" keff="0.903" burnup="49.5" HMmass="541.976" region="24G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3336" keff="0.903" burnup="49.5" HMmass="542.7" region="24G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3337" keff="1.142" burnup="0" HMmass="529.387" region="28M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3338" keff="1.142" burnup="0" HMmass="528.909" region="28M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3339" keff="1.142" burnup="0" HMmass="528.484" region="28M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3340" keff="1.142" burnup="0" HMmass="529.976" region="28M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3341" keff="1.142" burnup="0" HMmass="529.797" region="28M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3342" keff="1.142" burnup="0" HMmass="531.105" region="28M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3343" keff="1.142" burnup="0" HMmass="531.241" region="28M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3344" keff="1.142" burnup="0" HMmass="531.739" region="28M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3373" keff="0.897" burnup="49.2" HMmass="544.512" region="25GA" location="Kern" xcoordinates="1 " ycoordinates="H" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3374" keff="0.897" burnup="49.1" HMmass="544.569" region="25GA" location="Kern" xcoordinates="8 " ycoordinates="P" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3375" keff="0.897" burnup="49.1" HMmass="544.218" region="25GA" location="Kern" xcoordinates="15" ycoordinates="H" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3376" keff="0.897" burnup="49.1" HMmass="544.359" region="25GA" location="Kern" xcoordinates="8 " ycoordinates="A" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3377" keff="0.919" burnup="46.8" HMmass="544.584" region="25GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3378" keff="0.919" burnup="46.8" HMmass="544.954" region="25GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3379" keff="0.919" burnup="46.8" HMmass="545.247" region="25GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3380" keff="0.919" burnup="46.8" HMmass="544.648" region="25GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3381" keff="1.031" burnup="31.6" HMmass="544.79" region="25GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3382" keff="0.91" burnup="48.6" HMmass="544.107" region="25GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3383" keff="0.91" burnup="48.6" HMmass="544.236" region="25GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3384" keff="0.91" burnup="48.6" HMmass="545.157" region="25GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3385" keff="0.911" burnup="48.5" HMmass="544.972" region="25GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3386" keff="0.911" burnup="48.5" HMmass="544.267" region="25GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3387" keff="0.911" burnup="48.5" HMmass="544.551" region="25GA" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3388" keff="0.894" burnup="51.5" HMmass="544.58" region="25GA" location="Kern" xcoordinates="10" ycoordinates="L" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3421" keff="0.904" burnup="48.8" HMmass="543.916" region="25" location="Kern" xcoordinates="14" ycoordinates="N" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3422" keff="0.904" burnup="48.8" HMmass="543.435" region="25" location="Kern" xcoordinates="13" ycoordinates="B" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3423" keff="0.904" burnup="48.8" HMmass="543.746" region="25" location="Kern" xcoordinates="2 " ycoordinates="C" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3424" keff="0.904" burnup="48.8" HMmass="543.578" region="25" location="Kern" xcoordinates="3 " ycoordinates="O" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3425" keff="0.917" burnup="47.6" HMmass="543.976" region="25" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3426" keff="0.917" burnup="47.5" HMmass="544.316" region="25" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3427" keff="0.962" burnup="41.7" HMmass="543.874" region="25" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3428" keff="0.917" burnup="47.5" HMmass="544.476" region="25" location="Becken" xcoordinates="-" ycoordinates="-" rotation="180" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3429" keff="0.901" burnup="50.9" HMmass="543.953" region="25" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3430" keff="0.901" burnup="50.6" HMmass="543.664" region="25" location="Kern" xcoordinates="7 " ycoordinates="F" rotation="90 " zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3431" keff="0.901" burnup="50.9" HMmass="544.457" region="25" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3432" keff="0.901" burnup="50.8" HMmass="544.062" region="25" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3433" keff="0.915" burnup="46.9" HMmass="542.268" region="25G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3434" keff="0.915" burnup="46.8" HMmass="542.922" region="25G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3435" keff="0.915" burnup="46.9" HMmass="542.637" region="25G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3436" keff="0.915" burnup="46.8" HMmass="541.803" region="25G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3437" keff="0.987" burnup="36" HMmass="542.702" region="25G" location="Kern" xcoordinates="5 " ycoordinates="O" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3438" keff="0.974" burnup="38.4" HMmass="542.241" region="25G" location="Kern" xcoordinates="4 " ycoordinates="M" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3439" keff="0.899" burnup="50.6" HMmass="540.577" region="25G" location="Kern" xcoordinates="6 " ycoordinates="J" rotation="90 " zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3440" keff="1.03" burnup="31.5" HMmass="542.829" region="25G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3441" keff="0.901" burnup="49.6" HMmass="542.478" region="25G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+      zustand="defekt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3442" keff="0.902" burnup="49.5" HMmass="542.319" region="25G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3443" keff="0.902" burnup="49.5" HMmass="541.637" region="25G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3444" keff="0.902" burnup="49.5" HMmass="541.86" region="25G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="abgebrannt" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3445" keff="0.916" burnup="47.6" HMmass="541.869" region="25G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3446" keff="0.897" burnup="50.9" HMmass="542.194" region="25G" location="Kern" xcoordinates="10" ycoordinates="J" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3447" keff="0.897" burnup="50.9" HMmass="542.572" region="25G" location="Kern" xcoordinates="9 " ycoordinates="F" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3448" keff="0.916" burnup="47.6" HMmass="542.194" region="25G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3497" keff="0" burnup="0" HMmass="531.284" region="29M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3498" keff="0" burnup="0" HMmass="530.705" region="29M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3499" keff="0" burnup="0" HMmass="530.397" region="29M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3500" keff="0" burnup="0" HMmass="530.601" region="29M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3501" keff="0" burnup="0" HMmass="531.518" region="29M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3502" keff="0" burnup="0" HMmass="531.796" region="29M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3503" keff="0" burnup="0" HMmass="531.466" region="29M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3504" keff="0" burnup="0" HMmass="531.043" region="29M" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3593" keff="0.907" burnup="49.5" HMmass="543.23" region="26" location="Kern" xcoordinates="5 " ycoordinates="H" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3594" keff="0.907" burnup="49.5" HMmass="543.156" region="26" location="Kern" xcoordinates="8 " ycoordinates="L" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3595" keff="0.907" burnup="49.5" HMmass="543.124" region="26" location="Kern" xcoordinates="11" ycoordinates="H" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3596" keff="0.907" burnup="49.5" HMmass="543.078" region="26" location="Kern" xcoordinates="8 " ycoordinates="E" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3597" keff="0.893" burnup="51.7" HMmass="542.825" region="26" location="Kern" xcoordinates="10" ycoordinates="E" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3598" keff="0.894" burnup="51.7" HMmass="543.131" region="26" location="Kern" xcoordinates="5 " ycoordinates="F" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3599" keff="0.894" burnup="51.6" HMmass="542.88" region="26" location="Kern" xcoordinates="6 " ycoordinates="L" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3600" keff="0.893" burnup="51.7" HMmass="542.895" region="26" location="Kern" xcoordinates="11" ycoordinates="K" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3601" keff="1.011" burnup="33.7" HMmass="542.375" region="26" location="Kern" xcoordinates="3 " ycoordinates="H" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3602" keff="1.011" burnup="33.7" HMmass="542.551" region="26" location="Kern" xcoordinates="8 " ycoordinates="N" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3603" keff="1.011" burnup="33.7" HMmass="542.757" region="26" location="Kern" xcoordinates="13" ycoordinates="H" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3604" keff="1.011" burnup="33.7" HMmass="543.29" region="26" location="Kern" xcoordinates="8 " ycoordinates="C" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3605" keff="0.903" burnup="49.8" HMmass="543.123" region="26" location="Kern" xcoordinates="9 " ycoordinates="A" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3606" keff="0.902" burnup="49.8" HMmass="543.154" region="26" location="Kern" xcoordinates="1 " ycoordinates="G" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3607" keff="0.902" burnup="49.8" HMmass="542.516" region="26" location="Kern" xcoordinates="7 " ycoordinates="P" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3608" keff="0.902" burnup="49.8" HMmass="541.942" region="26" location="Kern" xcoordinates="15" ycoordinates="J" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3609" keff="0.981" burnup="37.8" HMmass="538.527" region="26G" location="Kern" xcoordinates="3 " ycoordinates="C" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3610" keff="0.91" burnup="48.5" HMmass="540.697" region="26G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3611" keff="0.938" burnup="43.9" HMmass="541.325" region="26G" location="Kern" xcoordinates="3 " ycoordinates="J" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3612" keff="0.897" burnup="50.9" HMmass="540.736" region="26G" location="Kern" xcoordinates="6 " ycoordinates="G" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3613" keff="0.941" burnup="43.5" HMmass="540.693" region="26G" location="Kern" xcoordinates="13" ycoordinates="J" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3614" keff="0.941" burnup="43.4" HMmass="541.061" region="26G" location="Kern" xcoordinates="9 " ycoordinates="C" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3615" keff="0.941" burnup="43.4" HMmass="541.143" region="26G" location="Kern" xcoordinates="3 " ycoordinates="G" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3616" keff="0.941" burnup="43.5" HMmass="541.026" region="26G" location="Kern" xcoordinates="7 " ycoordinates="N" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3617" keff="0.983" burnup="37.6" HMmass="538.743" region="26G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3618" keff="0.983" burnup="37.6" HMmass="539.303" region="26G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3619" keff="0.983" burnup="37.5" HMmass="541.655" region="26G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3620" keff="0.983" burnup="37.6" HMmass="541.781" region="26G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3621" keff="0.917" burnup="47.7" HMmass="540.688" region="26G" location="Kern" xcoordinates="12" ycoordinates="J" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3622" keff="0.917" burnup="47.7" HMmass="540.981" region="26G" location="Kern" xcoordinates="9 " ycoordinates="D" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3623" keff="0.917" burnup="47.7" HMmass="541.726" region="26G" location="Kern" xcoordinates="4 " ycoordinates="G" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3624" keff="0.917" burnup="47.7" HMmass="541.175" region="26G" location="Kern" xcoordinates="7 " ycoordinates="M" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3625" keff="0.973" burnup="39" HMmass="541.34" region="26G" location="Kern" xcoordinates="13" ycoordinates="C" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3626" keff="0.962" burnup="41" HMmass="540.852" region="26G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3627" keff="0.973" burnup="39" HMmass="541.42" region="26G" location="Kern" xcoordinates="3 " ycoordinates="N" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3628" keff="0.973" burnup="39" HMmass="540.62" region="26G" location="Kern" xcoordinates="13" ycoordinates="N" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3629" keff="1.022" burnup="32.8" HMmass="541.004" region="26G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3630" keff="1.023" burnup="32.7" HMmass="541.491" region="26G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3631" keff="1.023" burnup="32.8" HMmass="541.628" region="26G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3632" keff="1.022" burnup="32.8" HMmass="541.134" region="26G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3633" keff="0.983" burnup="37.7" HMmass="541.736" region="26G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3634" keff="0.983" burnup="37.7" HMmass="541.116" region="26G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3635" keff="0.983" burnup="37.7" HMmass="541.321" region="26G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3636" keff="0.983" burnup="37.7" HMmass="541.118" region="26G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3637" keff="0.99" burnup="36.5" HMmass="541.629" region="26G" location="Kern" xcoordinates="14" ycoordinates="E" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3638" keff="0.99" burnup="36.5" HMmass="541.016" region="26G" location="Kern" xcoordinates="5 " ycoordinates="B" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3639" keff="0.932" burnup="45.3" HMmass="541.58" region="26G" location="Kern" xcoordinates="10" ycoordinates="C" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3640" keff="0.99" burnup="36.5" HMmass="541.543" region="26G" location="Kern" xcoordinates="11" ycoordinates="O" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3773" keff="0" burnup="15.6" HMmass="541.453" region="27" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3774" keff="0.94" burnup="44.4" HMmass="544.17" region="27" location="Kern" xcoordinates="9 " ycoordinates="N" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3775" keff="0.94" burnup="44.4" HMmass="544.754" region="27" location="Kern" xcoordinates="13" ycoordinates="G" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3776" keff="0.94" burnup="44.4" HMmass="543.838" region="27" location="Kern" xcoordinates="7 " ycoordinates="C" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3777" keff="0.985" burnup="38.1" HMmass="543.599" region="27" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3778" keff="0.985" burnup="38.1" HMmass="546.553" region="27" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3779" keff="0.985" burnup="38.1" HMmass="546.103" region="27" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3780" keff="0.985" burnup="38.1" HMmass="545.296" region="27" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3781" keff="0.985" burnup="38.1" HMmass="545.938" region="27" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3782" keff="0.986" burnup="38" HMmass="544.713" region="27" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3783" keff="0.985" burnup="38.1" HMmass="544.867" region="27" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3784" keff="0.986" burnup="38" HMmass="544.274" region="27" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3785" keff="1.02" burnup="33.4" HMmass="543.483" region="27" location="Kern" xcoordinates="4 " ycoordinates="L" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3786" keff="1.02" burnup="33.3" HMmass="544.439" region="27" location="Kern" xcoordinates="11" ycoordinates="M" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3787" keff="1.02" burnup="33.4" HMmass="544.721" region="27" location="Kern" xcoordinates="12" ycoordinates="E" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3788" keff="1.02" burnup="33.4" HMmass="543.438" region="27" location="Kern" xcoordinates="5 " ycoordinates="D" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3789" keff="0.932" burnup="45.1" HMmass="542.545" region="27G" location="Kern" xcoordinates="3 " ycoordinates="K" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3790" keff="0.932" burnup="45.1" HMmass="542.17" region="27G" location="Kern" xcoordinates="10" ycoordinates="N" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3791" keff="0.932" burnup="45.1" HMmass="542.4" region="27G" location="Kern" xcoordinates="13" ycoordinates="F" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3792" keff="0.932" burnup="45.1" HMmass="542.169" region="27G" location="Kern" xcoordinates="6 " ycoordinates="C" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3793" keff="0.932" burnup="45.2" HMmass="542.166" region="27G" location="Kern" xcoordinates="6 " ycoordinates="N" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3794" keff="0.932" burnup="45.1" HMmass="542.494" region="27G" location="Kern" xcoordinates="13" ycoordinates="K" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3795" keff="0.989" burnup="36.4" HMmass="543.044" region="27G" location="Kern" xcoordinates="2 " ycoordinates="L" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3796" keff="0.932" burnup="45.1" HMmass="542.832" region="27G" location="Kern" xcoordinates="3 " ycoordinates="F" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3797" keff="1.024" burnup="32.3" HMmass="542.367" region="27G" location="Kern" xcoordinates="5 " ycoordinates="L" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3798" keff="1.024" burnup="32.3" HMmass="542.332" region="27G" location="Kern" xcoordinates="11" ycoordinates="L" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3799" keff="1.023" burnup="32.3" HMmass="542.4" region="27G" location="Kern" xcoordinates="11" ycoordinates="E" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3800" keff="1.024" burnup="32.3" HMmass="542.688" region="27G" location="Kern" xcoordinates="5 " ycoordinates="E" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3801" keff="1.032" burnup="30.9" HMmass="542.625" region="27G" location="Kern" xcoordinates="9 " ycoordinates="B" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3802" keff="1.032" burnup="30.9" HMmass="544.913" region="27G" location="Kern" xcoordinates="2 " ycoordinates="G" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3803" keff="1.032" burnup="30.9" HMmass="542.167" region="27G" location="Kern" xcoordinates="7 " ycoordinates="O" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3804" keff="1.032" burnup="30.9" HMmass="542.702" region="27G" location="Kern" xcoordinates="14" ycoordinates="J" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3805" keff="1.14" burnup="17.7" HMmass="542.961" region="27G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3806" keff="1.14" burnup="17.7" HMmass="542.502" region="27G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3807" keff="1.14" burnup="17.7" HMmass="542.082" region="27G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3808" keff="1.14" burnup="17.7" HMmass="542.504" region="27G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3809" keff="1.031" burnup="31.1" HMmass="542.247" region="27G" location="Kern" xcoordinates="13" ycoordinates="E" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3810" keff="1.031" burnup="31.1" HMmass="542.267" region="27G" location="Kern" xcoordinates="5 " ycoordinates="C" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3811" keff="1.031" burnup="31.2" HMmass="542.402" region="27G" location="Kern" xcoordinates="3 " ycoordinates="L" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3812" keff="1.031" burnup="31.1" HMmass="542.066" region="27G" location="Kern" xcoordinates="11" ycoordinates="N" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3813" keff="1.031" burnup="31.1" HMmass="542.297" region="27G" location="Kern" xcoordinates="11" ycoordinates="C" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3814" keff="1.031" burnup="31.1" HMmass="541.886" region="27G" location="Kern" xcoordinates="3 " ycoordinates="E" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3815" keff="1.031" burnup="31.1" HMmass="541.894" region="27G" location="Kern" xcoordinates="5 " ycoordinates="N" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3816" keff="1.031" burnup="31.1" HMmass="542.565" region="27G" location="Kern" xcoordinates="13" ycoordinates="L" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3865" keff="1.027" burnup="33" HMmass="545.263" region="27A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3866" keff="1.027" burnup="33" HMmass="545.065" region="27A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3867" keff="1.027" burnup="33" HMmass="544.964" region="27A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3868" keff="1.027" burnup="33" HMmass="545.409" region="27A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3869" keff="0.969" burnup="40.3" HMmass="545.681" region="27A" location="Kern" xcoordinates="9 " ycoordinates="H" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3870" keff="0.969" burnup="40.3" HMmass="545.202" region="27A" location="Kern" xcoordinates="8 " ycoordinates="G" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3871" keff="0.969" burnup="40.3" HMmass="546.033" region="27A" location="Kern" xcoordinates="7 " ycoordinates="H" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3872" keff="0.969" burnup="40.3" HMmass="545.863" region="27A" location="Kern" xcoordinates="8 " ycoordinates="J" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3873" keff="1.114" burnup="20.9" HMmass="544.449" region="28A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3874" keff="1.114" burnup="20.9" HMmass="544.106" region="28A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3875" keff="1.114" burnup="21" HMmass="544.456" region="28A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3876" keff="1.114" burnup="20.9" HMmass="544.159" region="28A" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3877" keff="1.038" burnup="30.7" HMmass="544.146" region="28A" location="Kern" xcoordinates="7 " ycoordinates="J" rotation="270" zustand="defekt" notes="dummy auf T01 und A16, mit 180grad Seite zum Kernbehaelter " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3878" keff="1.038" burnup="30.7" HMmass="543.763" region="28A" location="Kern" xcoordinates="9 " ycoordinates="J" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3879" keff="1.038" burnup="30.7" HMmass="544.327" region="28A" location="Kern" xcoordinates="9 " ycoordinates="G" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3880" keff="1.038" burnup="30.7" HMmass="544.514" region="28A" location="Kern" xcoordinates="7 " ycoordinates="G" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3993" keff="1.02" burnup="33.3" HMmass="543.226" region="28" location="Kern" xcoordinates="5 " ycoordinates="M" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3994" keff="1.02" burnup="33.3" HMmass="543.556" region="28" location="Kern" xcoordinates="12" ycoordinates="L" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3995" keff="1.02" burnup="33.3" HMmass="543.825" region="28" location="Kern" xcoordinates="11" ycoordinates="D" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3996" keff="1.02" burnup="33.3" HMmass="543.138" region="28" location="Kern" xcoordinates="4 " ycoordinates="E" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3997" keff="1.328" burnup="0" HMmass="543.244" region="28" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3998" keff="1.328" burnup="0" HMmass="543.395" region="28" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="3999" keff="1.328" burnup="0" HMmass="543.063" region="28" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4000" keff="1.328" burnup="0" HMmass="543.224" region="28" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4001" keff="1.032" burnup="30.8" HMmass="541.661" region="28G" location="Kern" xcoordinates="7 " ycoordinates="B" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4002" keff="1.032" burnup="30.8" HMmass="541.965" region="28G" location="Kern" xcoordinates="2 " ycoordinates="J" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4003" keff="1.032" burnup="30.8" HMmass="542.015" region="28G" location="Kern" xcoordinates="9 " ycoordinates="O" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4004" keff="1.032" burnup="30.8" HMmass="541.488" region="28G" location="Kern" xcoordinates="14" ycoordinates="G" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4005" keff="1.079" burnup="25" HMmass="541.638" region="28G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4006" keff="1.079" burnup="25" HMmass="542.077" region="28G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4007" keff="1.079" burnup="25" HMmass="542.251" region="28G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4008" keff="1.074" burnup="25.7" HMmass="542.168" region="28G" location="Kern" xcoordinates="8 " ycoordinates="H" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4009" keff="1.131" burnup="18.8" HMmass="541.764" region="28G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4010" keff="1.016" burnup="33.1" HMmass="541.417" region="28G" location="Kern" xcoordinates="7 " ycoordinates="E" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4011" keff="1.131" burnup="18.8" HMmass="541.697" region="28G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4012" keff="1.016" burnup="33.2" HMmass="541.85" region="28G" location="Kern" xcoordinates="9 " ycoordinates="L" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4013" keff="1.137" burnup="18" HMmass="542.144" region="28G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4014" keff="1.137" burnup="18" HMmass="542.261" region="28G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4015" keff="1.137" burnup="18" HMmass="542.532" region="28G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4016" keff="1.137" burnup="18" HMmass="542.578" region="28G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4017" keff="1.014" burnup="33.4" HMmass="542.214" region="28G" location="Kern" xcoordinates="11" ycoordinates="J" rotation="180" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4018" keff="1.129" burnup="19" HMmass="542.342" region="28G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4019" keff="1.015" burnup="33.3" HMmass="542.266" region="28G" location="Kern" xcoordinates="5 " ycoordinates="J" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4020" keff="1.014" burnup="33.4" HMmass="542.001" region="28G" location="Kern" xcoordinates="11" ycoordinates="G" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4021" keff="1.014" burnup="33.4" HMmass="541.956" region="28G" location="Kern" xcoordinates="9 " ycoordinates="E" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4022" keff="1.014" burnup="33.3" HMmass="542.031" region="28G" location="Kern" xcoordinates="5 " ycoordinates="G" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4023" keff="1.014" burnup="33.3" HMmass="542.183" region="28G" location="Kern" xcoordinates="7 " ycoordinates="L" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4024" keff="1.13" burnup="19" HMmass="542.189" region="28G" location="Becken" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4025" keff="1.246" burnup="0" HMmass="542.308" region="28G" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4026" keff="1.246" burnup="0" HMmass="542.052" region="28G" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4027" keff="1.246" burnup="0" HMmass="542.342" region="28G" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4028" keff="1.246" burnup="0" HMmass="542.378" region="28G" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4029" keff="1.246" burnup="0" HMmass="542.276" region="28G" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4030" keff="1.246" burnup="0" HMmass="541.952" region="28G" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4031" keff="1.246" burnup="0" HMmass="541.766" region="28G" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4032" keff="1.246" burnup="0" HMmass="541.853" region="28G" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4129" keff="1.157" burnup="16" HMmass="544.073" region="29" location="Kern" xcoordinates="8 " ycoordinates="M" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4130" keff="1.158" burnup="15.9" HMmass="543.609" region="29" location="Kern" xcoordinates="12" ycoordinates="H" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4131" keff="1.157" burnup="15.9" HMmass="543.687" region="29" location="Kern" xcoordinates="8 " ycoordinates="D" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4132" keff="1.158" burnup="15.9" HMmass="543.735" region="29" location="Kern" xcoordinates="4 " ycoordinates="H" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4133" keff="1.239" burnup="7.5" HMmass="543.471" region="29" location="Kern" xcoordinates="14" ycoordinates="F" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4134" keff="1.239" burnup="7.5" HMmass="543.904" region="29" location="Kern" xcoordinates="6 " ycoordinates="B" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4135" keff="1.238" burnup="7.5" HMmass="544.101" region="29" location="Kern" xcoordinates="2 " ycoordinates="K" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4136" keff="1.239" burnup="7.5" HMmass="544.015" region="29" location="Kern" xcoordinates="10" ycoordinates="O" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4137" keff="1.158" burnup="15.8" HMmass="544.111" region="29" location="Kern" xcoordinates="6 " ycoordinates="K" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4138" keff="1.158" burnup="15.9" HMmass="544.029" region="29" location="Kern" xcoordinates="10" ycoordinates="K" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4139" keff="1.158" burnup="15.9" HMmass="543.996" region="29" location="Kern" xcoordinates="10" ycoordinates="F" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4140" keff="1.158" burnup="15.9" HMmass="543.382" region="29" location="Kern" xcoordinates="6 " ycoordinates="F" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4141" keff="1.239" burnup="7.4" HMmass="543.473" region="29" location="Kern" xcoordinates="10" ycoordinates="B" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4142" keff="1.239" burnup="7.5" HMmass="543.282" region="29" location="Kern" xcoordinates="2 " ycoordinates="F" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4143" keff="1.238" burnup="7.5" HMmass="544.035" region="29" location="Kern" xcoordinates="6 " ycoordinates="O" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4144" keff="1.239" burnup="7.5" HMmass="544.479" region="29" location="Kern" xcoordinates="14" ycoordinates="K" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4145" keff="1.151" burnup="16.1" HMmass="542.762" region="29G" location="Kern" xcoordinates="10" ycoordinates="H" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4146" keff="1.151" burnup="16.1" HMmass="542.722" region="29G" location="Kern" xcoordinates="8 " ycoordinates="F" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4147" keff="1.152" burnup="16.1" HMmass="542.465" region="29G" location="Kern" xcoordinates="6 " ycoordinates="H" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4148" keff="1.151" burnup="16.1" HMmass="542.469" region="29G" location="Kern" xcoordinates="8 " ycoordinates="K" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4149" keff="1.149" burnup="16.4" HMmass="542.528" region="29G" location="Kern" xcoordinates="6 " ycoordinates="D" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4150" keff="1.149" burnup="16.3" HMmass="543.041" region="29G" location="Kern" xcoordinates="4 " ycoordinates="K" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4151" keff="1.149" burnup="16.4" HMmass="542.848" region="29G" location="Kern" xcoordinates="10" ycoordinates="M" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4152" keff="1.149" burnup="16.4" HMmass="543.099" region="29G" location="Kern" xcoordinates="12" ycoordinates="F" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4153" keff="1.149" burnup="16.4" HMmass="543.17" region="29G" location="Kern" xcoordinates="12" ycoordinates="K" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4154" keff="1.149" burnup="16.4" HMmass="543.003" region="29G" location="Kern" xcoordinates="10" ycoordinates="D" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4155" keff="1.149" burnup="16.4" HMmass="542.751" region="29G" location="Kern" xcoordinates="4 " ycoordinates="F" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4156" keff="1.149" burnup="16.4" HMmass="542.926" region="29G" location="Kern" xcoordinates="6 " ycoordinates="M" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4157" keff="1.194" burnup="7.4" HMmass="542.773" region="29G" location="Kern" xcoordinates="14" ycoordinates="H" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4158" keff="1.194" burnup="7.4" HMmass="542.203" region="29G" location="Kern" xcoordinates="8 " ycoordinates="B" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4159" keff="1.194" burnup="7.4" HMmass="542.07" region="29G" location="Kern" xcoordinates="2 " ycoordinates="H" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4160" keff="1.194" burnup="7.4" HMmass="541.601" region="29G" location="Kern" xcoordinates="8 " ycoordinates="O" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4161" keff="1.193" burnup="7.6" HMmass="541.788" region="29G" location="Kern" xcoordinates="13" ycoordinates="D" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4162" keff="1.193" burnup="7.6" HMmass="542.295" region="29G" location="Kern" xcoordinates="4 " ycoordinates="C" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4163" keff="1.193" burnup="7.6" HMmass="543.341" region="29G" location="Kern" xcoordinates="3 " ycoordinates="M" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4164" keff="1.193" burnup="7.6" HMmass="542.862" region="29G" location="Kern" xcoordinates="12" ycoordinates="N" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4165" keff="1.193" burnup="7.5" HMmass="544.221" region="29G" location="Kern" xcoordinates="12" ycoordinates="C" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4166" keff="1.193" burnup="7.6" HMmass="543.316" region="29G" location="Kern" xcoordinates="3 " ycoordinates="D" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4167" keff="1.193" burnup="7.6" HMmass="544.178" region="29G" location="Kern" xcoordinates="4 " ycoordinates="N" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4168" keff="1.193" burnup="7.5" HMmass="543.972" region="29G" location="Kern" xcoordinates="13" ycoordinates="M" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4169" keff="1.246" burnup="0" HMmass="543.136" region="29G" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4170" keff="1.246" burnup="0" HMmass="544.101" region="29G" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4171" keff="1.246" burnup="0" HMmass="542.837" region="29G" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4172" keff="1.246" burnup="0" HMmass="543.207" region="29G" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4173" keff="1.246" burnup="0" HMmass="542.971" region="29G" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4174" keff="1.246" burnup="0" HMmass="542.943" region="29G" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4175" keff="1.246" burnup="0" HMmass="543.151" region="29G" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4176" keff="1.246" burnup="0" HMmass="542.72" region="29G" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4177" keff="1.246" burnup="0" HMmass="543.151" region="29G" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4178" keff="1.246" burnup="0" HMmass="542.956" region="29G" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4179" keff="1.246" burnup="0" HMmass="543.139" region="29G" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4180" keff="1.246" burnup="0" HMmass="542.809" region="29G" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4273" keff="1.328" burnup="0" HMmass="544.234" region="28" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4274" keff="1.328" burnup="0" HMmass="544.058" region="28" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4275" keff="1.328" burnup="0" HMmass="543.517" region="28" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4276" keff="1.328" burnup="0" HMmass="543.802" region="28" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4277" keff="1.328" burnup="0" HMmass="542.778" region="28" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4278" keff="1.328" burnup="0" HMmass="543.323" region="28" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4279" keff="1.328" burnup="0" HMmass="543.39" region="28" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+    <FuelAssembly BEname="4280" keff="1.328" burnup="0" HMmass="543.734" region="28" location="Lager" xcoordinates="-" ycoordinates="-" rotation="270" zustand="ok" notes=" " >
+    </FuelAssembly>
+
+
+  </FuelAssemblies>
+
+  </NuclearNews>
+
+
+

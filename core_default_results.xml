@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NuclearNews>
+<Reactor>
+<ReactorState load="1.0000" efpd="6.00" cycleburnup="0.2238" coreburnup="23.3128" ppm="752.70">
+</ReactorState>
+</Reactor>
+<FuelResults>
+<FuelResult WXYZ="158.5" DNBR="8.513" location="Kern" ycoordinates="P" xcoordinates="5" >
+</FuelResult>
+<FuelResult WXYZ="161.6" DNBR="8.301" location="Kern" ycoordinates="P" xcoordinates="6" >
+</FuelResult>
+<FuelResult WXYZ="163.0" DNBR="8.350" location="Kern" ycoordinates="P" xcoordinates="7" >
+</FuelResult>
+<FuelResult WXYZ="176.7" DNBR="8.294" location="Kern" ycoordinates="P" xcoordinates="8" >
+</FuelResult>
+<FuelResult WXYZ="158.8" DNBR="8.596" location="Kern" ycoordinates="P" xcoordinates="9" >
+</FuelResult>
+<FuelResult WXYZ="158.7" DNBR="8.401" location="Kern" ycoordinates="P" xcoordinates="10" >
+</FuelResult>
+<FuelResult WXYZ="155.4" DNBR="8.714" location="Kern" ycoordinates="P" xcoordinates="11" >
+</FuelResult>
+<FuelResult WXYZ="222.5" DNBR="5.644" location="Kern" ycoordinates="O" xcoordinates="3" >
+</FuelResult>
+<FuelResult WXYZ="404.3" DNBR="2.404" location="Kern" ycoordinates="O" xcoordinates="4" >
+</FuelResult>
+<FuelResult WXYZ="409.6" DNBR="2.497" location="Kern" ycoordinates="O" xcoordinates="5" >
+</FuelResult>
+<FuelResult WXYZ="389.4" DNBR="2.687" location="Kern" ycoordinates="O" xcoordinates="6" >
+</FuelResult>
+<FuelResult WXYZ="320.2" DNBR="3.634" location="Kern" ycoordinates="O" xcoordinates="7" >
+</FuelResult>
+<FuelResult WXYZ="365.9" DNBR="2.979" location="Kern" ycoordinates="O" xcoordinates="8" >
+</FuelResult>
+<FuelResult WXYZ="323.9" DNBR="3.543" location="Kern" ycoordinates="O" xcoordinates="9" >
+</FuelResult>
+<FuelResult WXYZ="384.9" DNBR="2.722" location="Kern" ycoordinates="O" xcoordinates="10" >
+</FuelResult>
+<FuelResult WXYZ="403.2" DNBR="2.551" location="Kern" ycoordinates="O" xcoordinates="11" >
+</FuelResult>
+<FuelResult WXYZ="399.8" DNBR="2.444" location="Kern" ycoordinates="O" xcoordinates="12" >
+</FuelResult>
+<FuelResult WXYZ="207.5" DNBR="6.110" location="Kern" ycoordinates="O" xcoordinates="13" >
+</FuelResult>
+<FuelResult WXYZ="208.9" DNBR="6.062" location="Kern" ycoordinates="N" xcoordinates="2" >
+</FuelResult>
+<FuelResult WXYZ="392.1" DNBR="2.580" location="Kern" ycoordinates="N" xcoordinates="3" >
+</FuelResult>
+<FuelResult WXYZ="309.3" DNBR="3.727" location="Kern" ycoordinates="N" xcoordinates="4" >
+</FuelResult>
+<FuelResult WXYZ="367.1" DNBR="2.814" location="Kern" ycoordinates="N" xcoordinates="5" >
+</FuelResult>
+<FuelResult WXYZ="349.0" DNBR="3.418" location="Kern" ycoordinates="N" xcoordinates="6" >
+</FuelResult>
+<FuelResult WXYZ="357.0" DNBR="2.974" location="Kern" ycoordinates="N" xcoordinates="7" >
+</FuelResult>
+<FuelResult WXYZ="337.3" DNBR="3.626" location="Kern" ycoordinates="N" xcoordinates="8" >
+</FuelResult>
+<FuelResult WXYZ="356.9" DNBR="2.969" location="Kern" ycoordinates="N" xcoordinates="9" >
+</FuelResult>
+<FuelResult WXYZ="344.8" DNBR="3.480" location="Kern" ycoordinates="N" xcoordinates="10" >
+</FuelResult>
+<FuelResult WXYZ="365.1" DNBR="2.832" location="Kern" ycoordinates="N" xcoordinates="11" >
+</FuelResult>
+<FuelResult WXYZ="306.0" DNBR="3.772" location="Kern" ycoordinates="N" xcoordinates="12" >
+</FuelResult>
+<FuelResult WXYZ="387.0" DNBR="2.635" location="Kern" ycoordinates="N" xcoordinates="13" >
+</FuelResult>
+<FuelResult WXYZ="199.3" DNBR="6.375" location="Kern" ycoordinates="N" xcoordinates="14" >
+</FuelResult>
+<FuelResult WXYZ="398.6" DNBR="2.454" location="Kern" ycoordinates="M" xcoordinates="2" >
+</FuelResult>
+<FuelResult WXYZ="309.0" DNBR="3.748" location="Kern" ycoordinates="M" xcoordinates="3" >
+</FuelResult>
+<FuelResult WXYZ="342.5" DNBR="3.140" location="Kern" ycoordinates="M" xcoordinates="4" >
+</FuelResult>
+<FuelResult WXYZ="292.6" DNBR="3.956" location="Kern" ycoordinates="M" xcoordinates="5" >
+</FuelResult>
+<FuelResult WXYZ="414.2" DNBR="2.281" location="Kern" ycoordinates="M" xcoordinates="6" >
+</FuelResult>
+<FuelResult WXYZ="309.2" DNBR="3.705" location="Kern" ycoordinates="M" xcoordinates="7" >
+</FuelResult>
+<FuelResult WXYZ="363.8" DNBR="2.972" location="Kern" ycoordinates="M" xcoordinates="8" >
+</FuelResult>
+<FuelResult WXYZ="306.7" DNBR="3.849" location="Kern" ycoordinates="M" xcoordinates="9" >
+</FuelResult>
+<FuelResult WXYZ="412.2" DNBR="2.303" location="Kern" ycoordinates="M" xcoordinates="10" >
+</FuelResult>
+<FuelResult WXYZ="292.6" DNBR="3.965" location="Kern" ycoordinates="M" xcoordinates="11" >
+</FuelResult>
+<FuelResult WXYZ="339.9" DNBR="3.175" location="Kern" ycoordinates="M" xcoordinates="12" >
+</FuelResult>
+<FuelResult WXYZ="305.8" DNBR="3.803" location="Kern" ycoordinates="M" xcoordinates="13" >
+</FuelResult>
+<FuelResult WXYZ="395.4" DNBR="2.484" location="Kern" ycoordinates="M" xcoordinates="14" >
+</FuelResult>
+<FuelResult WXYZ="154.0" DNBR="8.798" location="Kern" ycoordinates="L" xcoordinates="1" >
+</FuelResult>
+<FuelResult WXYZ="400.2" DNBR="2.576" location="Kern" ycoordinates="L" xcoordinates="2" >
+</FuelResult>
+<FuelResult WXYZ="363.3" DNBR="2.870" location="Kern" ycoordinates="L" xcoordinates="3" >
+</FuelResult>
+<FuelResult WXYZ="293.0" DNBR="3.957" location="Kern" ycoordinates="L" xcoordinates="4" >
+</FuelResult>
+<FuelResult WXYZ="396.2" DNBR="2.448" location="Kern" ycoordinates="L" xcoordinates="5" >
+</FuelResult>
+<FuelResult WXYZ="261.3" DNBR="4.675" location="Kern" ycoordinates="L" xcoordinates="6" >
+</FuelResult>
+<FuelResult WXYZ="372.4" DNBR="2.870" location="Kern" ycoordinates="L" xcoordinates="7" >
+</FuelResult>
+<FuelResult WXYZ="373.1" DNBR="2.772" location="Kern" ycoordinates="L" xcoordinates="8" >
+</FuelResult>
+<FuelResult WXYZ="359.6" DNBR="3.014" location="Kern" ycoordinates="L" xcoordinates="9" >
+</FuelResult>
+<FuelResult WXYZ="258.3" DNBR="4.767" location="Kern" ycoordinates="L" xcoordinates="10" >
+</FuelResult>
+<FuelResult WXYZ="395.4" DNBR="2.456" location="Kern" ycoordinates="L" xcoordinates="11" >
+</FuelResult>
+<FuelResult WXYZ="293.1" DNBR="3.951" location="Kern" ycoordinates="L" xcoordinates="12" >
+</FuelResult>
+<FuelResult WXYZ="361.6" DNBR="2.888" location="Kern" ycoordinates="L" xcoordinates="13" >
+</FuelResult>
+<FuelResult WXYZ="401.3" DNBR="2.565" location="Kern" ycoordinates="L" xcoordinates="14" >
+</FuelResult>
+<FuelResult WXYZ="155.7" DNBR="8.674" location="Kern" ycoordinates="L" xcoordinates="15" >
+</FuelResult>
+<FuelResult WXYZ="157.4" DNBR="8.474" location="Kern" ycoordinates="K" xcoordinates="1" >
+</FuelResult>
+<FuelResult WXYZ="380.4" DNBR="2.764" location="Kern" ycoordinates="K" xcoordinates="2" >
+</FuelResult>
+<FuelResult WXYZ="341.8" DNBR="3.518" location="Kern" ycoordinates="K" xcoordinates="3" >
+</FuelResult>
+<FuelResult WXYZ="409.3" DNBR="2.334" location="Kern" ycoordinates="K" xcoordinates="4" >
+</FuelResult>
+<FuelResult WXYZ="258.8" DNBR="4.762" location="Kern" ycoordinates="K" xcoordinates="5" >
+</FuelResult>
+<FuelResult WXYZ="322.6" DNBR="3.474" location="Kern" ycoordinates="K" xcoordinates="6" >
+</FuelResult>
+<FuelResult WXYZ="332.0" DNBR="3.523" location="Kern" ycoordinates="K" xcoordinates="7" >
+</FuelResult>
+<FuelResult WXYZ="355.7" DNBR="3.071" location="Kern" ycoordinates="K" xcoordinates="8" >
+</FuelResult>
+<FuelResult WXYZ="327.6" DNBR="3.597" location="Kern" ycoordinates="K" xcoordinates="9" >
+</FuelResult>
+<FuelResult WXYZ="322.0" DNBR="3.484" location="Kern" ycoordinates="K" xcoordinates="10" >
+</FuelResult>
+<FuelResult WXYZ="261.6" DNBR="4.682" location="Kern" ycoordinates="K" xcoordinates="11" >
+</FuelResult>
+<FuelResult WXYZ="410.9" DNBR="2.317" location="Kern" ycoordinates="K" xcoordinates="12" >
+</FuelResult>
+<FuelResult WXYZ="342.2" DNBR="3.529" location="Kern" ycoordinates="K" xcoordinates="13" >
+</FuelResult>
+<FuelResult WXYZ="381.0" DNBR="2.766" location="Kern" ycoordinates="K" xcoordinates="14" >
+</FuelResult>
+<FuelResult WXYZ="159.0" DNBR="8.433" location="Kern" ycoordinates="K" xcoordinates="15" >
+</FuelResult>
+<FuelResult WXYZ="157.2" DNBR="8.704" location="Kern" ycoordinates="J" xcoordinates="1" >
+</FuelResult>
+<FuelResult WXYZ="319.4" DNBR="3.612" location="Kern" ycoordinates="J" xcoordinates="2" >
+</FuelResult>
+<FuelResult WXYZ="350.4" DNBR="3.051" location="Kern" ycoordinates="J" xcoordinates="3" >
+</FuelResult>
+<FuelResult WXYZ="311.3" DNBR="3.768" location="Kern" ycoordinates="J" xcoordinates="4" >
+</FuelResult>
+<FuelResult WXYZ="365.5" DNBR="2.944" location="Kern" ycoordinates="J" xcoordinates="5" >
+</FuelResult>
+<FuelResult WXYZ="332.0" DNBR="3.529" location="Kern" ycoordinates="J" xcoordinates="6" >
+</FuelResult>
+<FuelResult WXYZ="409.5" DNBR="2.377" location="Kern" ycoordinates="J" xcoordinates="7" >
+</FuelResult>
+<FuelResult WXYZ="298.9" DNBR="4.013" location="Kern" ycoordinates="J" xcoordinates="8" >
+</FuelResult>
+<FuelResult WXYZ="408.7" DNBR="2.384" location="Kern" ycoordinates="J" xcoordinates="9" >
+</FuelResult>
+<FuelResult WXYZ="336.7" DNBR="3.457" location="Kern" ycoordinates="J" xcoordinates="10" >
+</FuelResult>
+<FuelResult WXYZ="378.1" DNBR="2.812" location="Kern" ycoordinates="J" xcoordinates="11" >
+</FuelResult>
+<FuelResult WXYZ="313.8" DNBR="3.681" location="Kern" ycoordinates="J" xcoordinates="12" >
+</FuelResult>
+<FuelResult WXYZ="349.0" DNBR="3.077" location="Kern" ycoordinates="J" xcoordinates="13" >
+</FuelResult>
+<FuelResult WXYZ="313.9" DNBR="3.734" location="Kern" ycoordinates="J" xcoordinates="14" >
+</FuelResult>
+<FuelResult WXYZ="160.5" DNBR="8.506" location="Kern" ycoordinates="J" xcoordinates="15" >
+</FuelResult>
+<FuelResult WXYZ="173.8" DNBR="8.454" location="Kern" ycoordinates="H" xcoordinates="1" >
+</FuelResult>
+<FuelResult WXYZ="356.4" DNBR="3.084" location="Kern" ycoordinates="H" xcoordinates="2" >
+</FuelResult>
+<FuelResult WXYZ="321.8" DNBR="3.887" location="Kern" ycoordinates="H" xcoordinates="3" >
+</FuelResult>
+<FuelResult WXYZ="369.8" DNBR="2.910" location="Kern" ycoordinates="H" xcoordinates="4" >
+</FuelResult>
+<FuelResult WXYZ="394.3" DNBR="2.543" location="Kern" ycoordinates="H" xcoordinates="5" >
+</FuelResult>
+<FuelResult WXYZ="365.0" DNBR="3.001" location="Kern" ycoordinates="H" xcoordinates="6" >
+</FuelResult>
+<FuelResult WXYZ="300.7" DNBR="3.984" location="Kern" ycoordinates="H" xcoordinates="7" >
+</FuelResult>
+<FuelResult WXYZ="232.9" DNBR="5.478" location="Kern" ycoordinates="H" xcoordinates="8" >
+</FuelResult>
+<FuelResult WXYZ="300.0" DNBR="3.999" location="Kern" ycoordinates="H" xcoordinates="9" >
+</FuelResult>
+<FuelResult WXYZ="361.7" DNBR="3.014" location="Kern" ycoordinates="H" xcoordinates="10" >
+</FuelResult>
+<FuelResult WXYZ="393.8" DNBR="2.555" location="Kern" ycoordinates="H" xcoordinates="11" >
+</FuelResult>
+<FuelResult WXYZ="369.6" DNBR="2.915" location="Kern" ycoordinates="H" xcoordinates="12" >
+</FuelResult>
+<FuelResult WXYZ="320.1" DNBR="3.915" location="Kern" ycoordinates="H" xcoordinates="13" >
+</FuelResult>
+<FuelResult WXYZ="354.9" DNBR="3.103" location="Kern" ycoordinates="H" xcoordinates="14" >
+</FuelResult>
+<FuelResult WXYZ="173.0" DNBR="8.496" location="Kern" ycoordinates="H" xcoordinates="15" >
+</FuelResult>
+<FuelResult WXYZ="161.2" DNBR="8.460" location="Kern" ycoordinates="G" xcoordinates="1" >
+</FuelResult>
+<FuelResult WXYZ="315.5" DNBR="3.707" location="Kern" ycoordinates="G" xcoordinates="2" >
+</FuelResult>
+<FuelResult WXYZ="350.4" DNBR="3.059" location="Kern" ycoordinates="G" xcoordinates="3" >
+</FuelResult>
+<FuelResult WXYZ="313.9" DNBR="3.676" location="Kern" ycoordinates="G" xcoordinates="4" >
+</FuelResult>
+<FuelResult WXYZ="378.9" DNBR="2.801" location="Kern" ycoordinates="G" xcoordinates="5" >
+</FuelResult>
+<FuelResult WXYZ="337.8" DNBR="3.438" location="Kern" ycoordinates="G" xcoordinates="6" >
+</FuelResult>
+<FuelResult WXYZ="410.2" DNBR="2.370" location="Kern" ycoordinates="G" xcoordinates="7" >
+</FuelResult>
+<FuelResult WXYZ="298.8" DNBR="4.014" location="Kern" ycoordinates="G" xcoordinates="8" >
+</FuelResult>
+<FuelResult WXYZ="409.4" DNBR="2.380" location="Kern" ycoordinates="G" xcoordinates="9" >
+</FuelResult>
+<FuelResult WXYZ="332.0" DNBR="3.534" location="Kern" ycoordinates="G" xcoordinates="10" >
+</FuelResult>
+<FuelResult WXYZ="365.1" DNBR="2.954" location="Kern" ycoordinates="G" xcoordinates="11" >
+</FuelResult>
+<FuelResult WXYZ="311.5" DNBR="3.770" location="Kern" ycoordinates="G" xcoordinates="12" >
+</FuelResult>
+<FuelResult WXYZ="348.8" DNBR="3.072" location="Kern" ycoordinates="G" xcoordinates="13" >
+</FuelResult>
+<FuelResult WXYZ="321.4" DNBR="3.625" location="Kern" ycoordinates="G" xcoordinates="14" >
+</FuelResult>
+<FuelResult WXYZ="155.9" DNBR="8.762" location="Kern" ycoordinates="G" xcoordinates="15" >
+</FuelResult>
+<FuelResult WXYZ="159.9" DNBR="8.375" location="Kern" ycoordinates="F" xcoordinates="1" >
+</FuelResult>
+<FuelResult WXYZ="382.6" DNBR="2.744" location="Kern" ycoordinates="F" xcoordinates="2" >
+</FuelResult>
+<FuelResult WXYZ="343.7" DNBR="3.499" location="Kern" ycoordinates="F" xcoordinates="3" >
+</FuelResult>
+<FuelResult WXYZ="412.8" DNBR="2.299" location="Kern" ycoordinates="F" xcoordinates="4" >
+</FuelResult>
+<FuelResult WXYZ="262.4" DNBR="4.664" location="Kern" ycoordinates="F" xcoordinates="5" >
+</FuelResult>
+<FuelResult WXYZ="323.5" DNBR="3.462" location="Kern" ycoordinates="F" xcoordinates="6" >
+</FuelResult>
+<FuelResult WXYZ="328.0" DNBR="3.593" location="Kern" ycoordinates="F" xcoordinates="7" >
+</FuelResult>
+<FuelResult WXYZ="355.6" DNBR="3.071" location="Kern" ycoordinates="F" xcoordinates="8" >
+</FuelResult>
+<FuelResult WXYZ="332.1" DNBR="3.526" location="Kern" ycoordinates="F" xcoordinates="9" >
+</FuelResult>
+<FuelResult WXYZ="322.7" DNBR="3.482" location="Kern" ycoordinates="F" xcoordinates="10" >
+</FuelResult>
+<FuelResult WXYZ="258.7" DNBR="4.772" location="Kern" ycoordinates="F" xcoordinates="11" >
+</FuelResult>
+<FuelResult WXYZ="408.1" DNBR="2.347" location="Kern" ycoordinates="F" xcoordinates="12" >
+</FuelResult>
+<FuelResult WXYZ="340.7" DNBR="3.531" location="Kern" ycoordinates="F" xcoordinates="13" >
+</FuelResult>
+<FuelResult WXYZ="378.3" DNBR="2.780" location="Kern" ycoordinates="F" xcoordinates="14" >
+</FuelResult>
+<FuelResult WXYZ="157.0" DNBR="8.485" location="Kern" ycoordinates="F" xcoordinates="15" >
+</FuelResult>
+<FuelResult WXYZ="156.6" DNBR="8.603" location="Kern" ycoordinates="E" xcoordinates="1" >
+</FuelResult>
+<FuelResult WXYZ="401.8" DNBR="2.547" location="Kern" ycoordinates="E" xcoordinates="2" >
+</FuelResult>
+<FuelResult WXYZ="361.1" DNBR="2.866" location="Kern" ycoordinates="E" xcoordinates="3" >
+</FuelResult>
+<FuelResult WXYZ="294.2" DNBR="3.929" location="Kern" ycoordinates="E" xcoordinates="4" >
+</FuelResult>
+<FuelResult WXYZ="397.1" DNBR="2.442" location="Kern" ycoordinates="E" xcoordinates="5" >
+</FuelResult>
+<FuelResult WXYZ="258.5" DNBR="4.768" location="Kern" ycoordinates="E" xcoordinates="6" >
+</FuelResult>
+<FuelResult WXYZ="360.1" DNBR="3.012" location="Kern" ycoordinates="E" xcoordinates="7" >
+</FuelResult>
+<FuelResult WXYZ="373.2" DNBR="2.776" location="Kern" ycoordinates="E" xcoordinates="8" >
+</FuelResult>
+<FuelResult WXYZ="371.6" DNBR="2.885" location="Kern" ycoordinates="E" xcoordinates="9" >
+</FuelResult>
+<FuelResult WXYZ="260.8" DNBR="4.705" location="Kern" ycoordinates="E" xcoordinates="10" >
+</FuelResult>
+<FuelResult WXYZ="395.2" DNBR="2.470" location="Kern" ycoordinates="E" xcoordinates="11" >
+</FuelResult>
+<FuelResult WXYZ="292.4" DNBR="3.981" location="Kern" ycoordinates="E" xcoordinates="12" >
+</FuelResult>
+<FuelResult WXYZ="362.5" DNBR="2.883" location="Kern" ycoordinates="E" xcoordinates="13" >
+</FuelResult>
+<FuelResult WXYZ="397.5" DNBR="2.588" location="Kern" ycoordinates="E" xcoordinates="14" >
+</FuelResult>
+<FuelResult WXYZ="153.4" DNBR="8.817" location="Kern" ycoordinates="E" xcoordinates="15" >
+</FuelResult>
+<FuelResult WXYZ="398.2" DNBR="2.440" location="Kern" ycoordinates="D" xcoordinates="2" >
+</FuelResult>
+<FuelResult WXYZ="307.1" DNBR="3.772" location="Kern" ycoordinates="D" xcoordinates="3" >
+</FuelResult>
+<FuelResult WXYZ="341.8" DNBR="3.150" location="Kern" ycoordinates="D" xcoordinates="4" >
+</FuelResult>
+<FuelResult WXYZ="293.9" DNBR="3.942" location="Kern" ycoordinates="D" xcoordinates="5" >
+</FuelResult>
+<FuelResult WXYZ="410.9" DNBR="2.318" location="Kern" ycoordinates="D" xcoordinates="6" >
+</FuelResult>
+<FuelResult WXYZ="307.7" DNBR="3.837" location="Kern" ycoordinates="D" xcoordinates="7" >
+</FuelResult>
+<FuelResult WXYZ="364.9" DNBR="2.966" location="Kern" ycoordinates="D" xcoordinates="8" >
+</FuelResult>
+<FuelResult WXYZ="309.5" DNBR="3.740" location="Kern" ycoordinates="D" xcoordinates="9" >
+</FuelResult>
+<FuelResult WXYZ="411.6" DNBR="2.314" location="Kern" ycoordinates="D" xcoordinates="10" >
+</FuelResult>
+<FuelResult WXYZ="292.3" DNBR="3.975" location="Kern" ycoordinates="D" xcoordinates="11" >
+</FuelResult>
+<FuelResult WXYZ="341.3" DNBR="3.165" location="Kern" ycoordinates="D" xcoordinates="12" >
+</FuelResult>
+<FuelResult WXYZ="307.0" DNBR="3.785" location="Kern" ycoordinates="D" xcoordinates="13" >
+</FuelResult>
+<FuelResult WXYZ="395.7" DNBR="2.471" location="Kern" ycoordinates="D" xcoordinates="14" >
+</FuelResult>
+<FuelResult WXYZ="220.2" DNBR="5.706" location="Kern" ycoordinates="C" xcoordinates="2" >
+</FuelResult>
+<FuelResult WXYZ="387.8" DNBR="2.621" location="Kern" ycoordinates="C" xcoordinates="3" >
+</FuelResult>
+<FuelResult WXYZ="306.8" DNBR="3.784" location="Kern" ycoordinates="C" xcoordinates="4" >
+</FuelResult>
+<FuelResult WXYZ="363.8" DNBR="2.858" location="Kern" ycoordinates="C" xcoordinates="5" >
+</FuelResult>
+<FuelResult WXYZ="343.4" DNBR="3.497" location="Kern" ycoordinates="C" xcoordinates="6" >
+</FuelResult>
+<FuelResult WXYZ="358.0" DNBR="2.954" location="Kern" ycoordinates="C" xcoordinates="7" >
+</FuelResult>
+<FuelResult WXYZ="337.9" DNBR="3.633" location="Kern" ycoordinates="C" xcoordinates="8" >
+</FuelResult>
+<FuelResult WXYZ="357.9" DNBR="2.968" location="Kern" ycoordinates="C" xcoordinates="9" >
+</FuelResult>
+<FuelResult WXYZ="343.9" DNBR="3.504" location="Kern" ycoordinates="C" xcoordinates="10" >
+</FuelResult>
+<FuelResult WXYZ="361.9" DNBR="2.899" location="Kern" ycoordinates="C" xcoordinates="11" >
+</FuelResult>
+<FuelResult WXYZ="299.0" DNBR="3.883" location="Kern" ycoordinates="C" xcoordinates="12" >
+</FuelResult>
+<FuelResult WXYZ="387.3" DNBR="2.627" location="Kern" ycoordinates="C" xcoordinates="13" >
+</FuelResult>
+<FuelResult WXYZ="207.9" DNBR="6.092" location="Kern" ycoordinates="C" xcoordinates="14" >
+</FuelResult>
+<FuelResult WXYZ="200.7" DNBR="6.314" location="Kern" ycoordinates="B" xcoordinates="3" >
+</FuelResult>
+<FuelResult WXYZ="397.0" DNBR="2.459" location="Kern" ycoordinates="B" xcoordinates="4" >
+</FuelResult>
+<FuelResult WXYZ="399.8" DNBR="2.570" location="Kern" ycoordinates="B" xcoordinates="5" >
+</FuelResult>
+<FuelResult WXYZ="381.5" DNBR="2.745" location="Kern" ycoordinates="B" xcoordinates="6" >
+</FuelResult>
+<FuelResult WXYZ="326.2" DNBR="3.555" location="Kern" ycoordinates="B" xcoordinates="7" >
+</FuelResult>
+<FuelResult WXYZ="368.0" DNBR="2.946" location="Kern" ycoordinates="B" xcoordinates="8" >
+</FuelResult>
+<FuelResult WXYZ="318.9" DNBR="3.656" location="Kern" ycoordinates="B" xcoordinates="9" >
+</FuelResult>
+<FuelResult WXYZ="382.2" DNBR="2.759" location="Kern" ycoordinates="B" xcoordinates="10" >
+</FuelResult>
+<FuelResult WXYZ="400.3" DNBR="2.567" location="Kern" ycoordinates="B" xcoordinates="11" >
+</FuelResult>
+<FuelResult WXYZ="392.7" DNBR="2.501" location="Kern" ycoordinates="B" xcoordinates="12" >
+</FuelResult>
+<FuelResult WXYZ="218.7" DNBR="5.772" location="Kern" ycoordinates="B" xcoordinates="13" >
+</FuelResult>
+<FuelResult WXYZ="154.5" DNBR="8.750" location="Kern" ycoordinates="A" xcoordinates="5" >
+</FuelResult>
+<FuelResult WXYZ="158.1" DNBR="8.415" location="Kern" ycoordinates="A" xcoordinates="6" >
+</FuelResult>
+<FuelResult WXYZ="157.6" DNBR="8.653" location="Kern" ycoordinates="A" xcoordinates="7" >
+</FuelResult>
+<FuelResult WXYZ="177.4" DNBR="8.254" location="Kern" ycoordinates="A" xcoordinates="8" >
+</FuelResult>
+<FuelResult WXYZ="162.4" DNBR="8.391" location="Kern" ycoordinates="A" xcoordinates="9" >
+</FuelResult>
+<FuelResult WXYZ="159.7" DNBR="8.400" location="Kern" ycoordinates="A" xcoordinates="10" >
+</FuelResult>
+<FuelResult WXYZ="156.7" DNBR="8.612" location="Kern" ycoordinates="A" xcoordinates="11" >
+</FuelResult>
+</FuelResults>
+</NuclearNews>
+
